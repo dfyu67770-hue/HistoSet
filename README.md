@@ -1,6 +1,6 @@
 # HistoSet
 
-Version: 1.0.1
+Version: 1.0.2
 
 HistoSet is an uncertainty-aware, concept-based framework for prostate cancer histopathology segmentation and Gleason-pattern evaluation. The project combines hierarchical morphologic concepts, soft-label supervision, direct Gleason-pattern prediction, conformal concept sets, and rare-concept sensitivity analysis.
 
@@ -118,7 +118,7 @@ This repository does not redistribute third-party source histopathology images o
 
 ## Release
 
-The current GitHub release is `v1.0.1`: https://github.com/dfyu67770-hue/HistoSet/releases/tag/v1.0.1. After Zenodo archiving is completed, the Zenodo DOI should be added to the Data and Code Availability statement, `CITATION.cff`, and this README.
+The current GitHub release is `v1.0.2`: https://github.com/dfyu67770-hue/HistoSet/releases/tag/v1.0.2. After Zenodo archiving is completed, the Zenodo DOI should be added to the Data and Code Availability statement, `CITATION.cff`, and this README.
 
 ## Licence
 

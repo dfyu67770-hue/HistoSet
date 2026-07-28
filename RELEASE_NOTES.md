@@ -1,5 +1,14 @@
 # Release Notes
 
+## v1.0.2
+
+Reproducibility workflow release.
+
+- Adds configuration files for data, augmentation, model, loss, optimization, trainer, and conformal calibration settings.
+- Adds setup, prediction, evaluation, training, and testing entry-point scripts.
+- Adds `.env.example`, `.python-version`, and `CHANGELOG.md`.
+- Updates README structure to document system requirements, data setup, prediction, visualization, and model training.
+
 ## v1.0.1
 
 Repository-structure and metadata release.
