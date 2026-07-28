@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.3
+
+- Triggered a Zenodo-visible release after enabling GitHub repository archiving.
+
 ## 1.1.2
 
 - Updated the archived DOI metadata workflow to cover README, citation metadata, Zenodo metadata, and manuscript availability text.

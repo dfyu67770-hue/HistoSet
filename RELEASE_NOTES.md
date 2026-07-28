@@ -1,5 +1,11 @@
 # Release Notes
 
+## v1.1.3
+
+Zenodo archival trigger release.
+
+- Updates version metadata for the release that should be archived after enabling the GitHub repository in Zenodo.
+
 ## v1.1.2
 
 DOI metadata workflow release.

@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use HistoSet, please cite the archived software release and the associated manuscript."
 title: "HistoSet: hierarchical conformal concept-set segmentation for prostate cancer histopathology"
-version: "1.1.2"
+version: "1.1.3"
 date-released: "2026-07-28"
 authors:
   - name: "HistoSet contributors"
