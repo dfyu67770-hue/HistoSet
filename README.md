@@ -2,13 +2,13 @@
 
 HistoSet is an uncertainty-aware, concept-based framework for prostate cancer histopathology segmentation and Gleason-pattern evaluation. The project combines hierarchical morphologic concepts, soft-label supervision, direct Gleason-pattern prediction, conformal concept sets, and rare-concept sensitivity analysis.
 
-This repository contains the release materials associated with the HistoSet manuscript package prepared for Journal of Translational Medicine submission.
+This repository contains the code, figures, source-data tables, and reproducibility materials associated with the HistoSet study.
 
 Repository: https://github.com/dfyu67770-hue/HistoSet
 
 ## Repository Contents
 
-- `manuscript_package/`: manuscript-facing release candidate with main figures, supplementary figures, source data, supplementary tables, manuscript document, cover letter, and checksums.
+- `manuscript_package/`: study materials with main figures, supplementary figures, source data, supplementary tables, manuscript document, cover letter, and checksums.
 - `scripts/`: reproducibility notes and code-entry documentation.
 - `docs/`: release workflow and data-use notes.
 - `LICENSE`: MIT software licence for author-developed HistoSet code.

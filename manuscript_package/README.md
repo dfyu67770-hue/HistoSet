@@ -1,6 +1,6 @@
 # HistoSet manuscript release candidate
 
-This folder contains the manuscript-facing materials for the HistoSet study prepared for Journal of Translational Medicine submission.
+This folder contains the manuscript, figure, source-data, supplementary, and reproducibility materials for the HistoSet study.
 
 ## Contents
 

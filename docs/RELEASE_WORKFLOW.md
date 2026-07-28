@@ -14,7 +14,7 @@
 2. Connect Zenodo to GitHub.
 3. Enable archiving for the `HistoSet` repository.
 4. Publish the GitHub release `v1.0.0`.
-5. Record the generated Zenodo DOI in `README.md`, `CITATION.cff`, the manuscript Data Availability statement, and the journal submission form.
+5. Record the generated Zenodo DOI in `README.md`, `CITATION.cff`, the manuscript Data Availability statement, and the final publication metadata.
 
 ## Author Fields to Finalize
 
