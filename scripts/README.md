@@ -1,14 +1,13 @@
 # Reproducibility Scripts
 
-The manuscript package includes source-data CSV files and checksums for figure-level verification. Full model training requires third-party histopathology images and annotations obtained from the original public resources under their respective access conditions.
+The release includes source-data CSV files and checksums for figure-level verification. Full model training requires third-party histopathology images and annotations obtained from the original public resources under their respective access conditions.
 
-The public code release should expose these reproducibility stages:
+The public code release exposes these reproducibility stages:
 
-1. Data inventory and manifest construction.
-2. Label harmonization.
-3. HistoSet training and model selection.
-4. Conformal calibration and evaluation.
-5. Main and supplementary figure generation.
-6. Manuscript package assembly and checksum export.
+1. `setup.py`: data inventory and manifest construction for local image resources.
+2. `train.py`: HistoSet model training on prepared NPZ tensors.
+3. `test.py`: checkpoint evaluation on validation and test splits.
+4. `run_histoset.py`: prediction export for prepared NPZ tensors.
+5. `evaluate_paper_results.py`: released source-data and figure-package verification.
 
 Large source images, masks, local checkpoints, and derived tensor caches should not be committed to GitHub.

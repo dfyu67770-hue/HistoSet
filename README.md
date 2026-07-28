@@ -1,6 +1,6 @@
 # HistoSet
 
-Version: 1.0.2
+Version: 1.1.0
 
 HistoSet is an uncertainty-aware, concept-based framework for prostate cancer histopathology segmentation and Gleason-pattern evaluation. The project combines hierarchical morphologic concepts, soft-label supervision, direct Gleason-pattern prediction, conformal concept sets, and rare-concept sensitivity analysis.
 
@@ -70,19 +70,22 @@ Run the setup entry point to validate paths and write a manifest:
 python scripts/setup.py --data-root "[HISTOSET_DATASET_LOCATION]/HistoSet" --output manifest/histoset_manifest.csv
 ```
 
+If prepared NPZ tensors are already available, pass their manifest directly to
+the training and evaluation scripts.
+
 ### Image predictions
 
 Run HistoSet prediction on one image or an image directory:
 
 ```bash
-python scripts/run_histoset.py --images "/path/to/images" --checkpoint "/path/to/checkpoint" --save-path "/path/to/output"
+python scripts/run_histoset.py --images "/path/to/prepared_npz_or_directory" --checkpoint "/path/to/checkpoint.pt" --save-path "/path/to/output"
 ```
 
-The prediction output includes concept probabilities, direct Gleason-pattern probabilities, conformal concept sets, and quality-control summaries when calibration files are provided.
+The prediction output includes explanation probabilities, explanation-derived Gleason-pattern probabilities, and direct Gleason-pattern probabilities when the checkpoint contains a direct pattern head.
 
 ### Paper visualizations
 
-The released source-data CSV files can be used to regenerate the main and supplementary figures:
+The released source-data CSV files and figure files can be verified with:
 
 ```bash
 python scripts/evaluate_paper_results.py --source-data manuscript_package/source_data --figure-dir manuscript_package/figures
@@ -93,11 +96,11 @@ python scripts/evaluate_paper_results.py --source-data manuscript_package/source
 Training uses the configuration files in `configs/`. Example calls:
 
 ```bash
-python scripts/train.py --config configs/config.yaml --experiment HistoSet/default
-python scripts/test.py --config configs/config.yaml --checkpoint "/path/to/checkpoint"
+python scripts/train.py --manifest "/path/to/prepared_manifest.csv" --output-dir "/path/to/experiment" --mode histoset_hierarchy
+python scripts/test.py --manifest "/path/to/prepared_manifest.csv" --checkpoint "/path/to/checkpoint.pt" --output-dir "/path/to/evaluation" --mode histoset_hierarchy
 ```
 
-The default configuration exposes data loading, augmentation, model, loss, optimization, trainer, and conformal calibration settings.
+The default configuration files expose the data loading, augmentation, model, loss, optimization, trainer, and conformal calibration settings used by the HistoSet workflow. Command-line arguments override these defaults in the lightweight public entry points.
 
 ## Repository Contents
 
@@ -118,7 +121,7 @@ This repository does not redistribute third-party source histopathology images o
 
 ## Release
 
-The current GitHub release is `v1.0.2`: https://github.com/dfyu67770-hue/HistoSet/releases/tag/v1.0.2. After Zenodo archiving is completed, the Zenodo DOI should be added to the Data and Code Availability statement, `CITATION.cff`, and this README.
+The current GitHub release is `v1.1.0`: https://github.com/dfyu67770-hue/HistoSet/releases/tag/v1.1.0. After Zenodo archiving is completed, the Zenodo DOI should be added to the Data and Code Availability statement, `CITATION.cff`, and this README.
 
 ## Licence
 

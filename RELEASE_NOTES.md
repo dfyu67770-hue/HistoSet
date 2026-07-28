@@ -1,5 +1,15 @@
 # Release Notes
 
+## v1.1.0
+
+Training-pipeline release.
+
+- Adds PyTorch dataset classes for prepared HistoSet NPZ tensors.
+- Adds a dual-head HistoSet U-Net baseline with explanation and direct Gleason-pattern heads.
+- Adds soft-label, class-balanced, Dice, hierarchy-consistency, and tumor-margin losses.
+- Converts `scripts/train.py`, `scripts/test.py`, and `scripts/run_histoset.py` into executable training, evaluation, and prediction entry points.
+- Adds PyTorch component tests for model and hierarchy-loss behavior.
+
 ## v1.0.2
 
 Reproducibility workflow release.
