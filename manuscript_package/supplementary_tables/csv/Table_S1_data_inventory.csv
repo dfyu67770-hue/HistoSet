@@ -1,0 +1,32 @@
+dataset,category,count,unique_ids,use_in_histoset
+TissueArray_concept_prepared,prepared_samples,396,396,Concept-labeled TissueArray prepared subset; explanation-vote labels available.
+TissueArray_annotation_csv,raw_annotation_identifiers,26520,1015,"Source annotation CSV; contains 1,015 unique identifiers but not all image tensors in current route."
+Gleason2019,train_images,244,244,Public Gleason challenge image/mask data; pattern-level supervision only.
+Gleason2019,test_images,87,87,Public Gleason challenge image/mask data; pattern-level supervision only.
+Gleason2019,all_images,331,331,Public Gleason challenge image/mask data; pattern-level supervision only.
+Gleason2019,unique_map_ids_union,247,247,Public Gleason challenge image/mask data; pattern-level supervision only.
+Gleason2019,image_map_overlap,245,245,Public Gleason challenge image/mask data; pattern-level supervision only.
+Gleason2019,Maps1_T_map_ids,244,244,Public Gleason challenge image/mask data; pattern-level supervision only.
+Gleason2019,Maps2_T_map_ids,141,141,Public Gleason challenge image/mask data; pattern-level supervision only.
+Gleason2019,Maps3_T_map_ids,242,242,Public Gleason challenge image/mask data; pattern-level supervision only.
+Gleason2019,Maps4_T_map_ids,244,244,Public Gleason challenge image/mask data; pattern-level supervision only.
+Gleason2019,Maps5_T_map_ids,246,246,Public Gleason challenge image/mask data; pattern-level supervision only.
+Gleason2019,Maps6_T_map_ids,65,65,Public Gleason challenge image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,all_images,886,886,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,all_masks,886,886,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,image_mask_overlap,886,886,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT111_4_A_images,77,77,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT111_4_B_images,71,71,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT111_4_C_images,79,79,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT199_1_A_images,94,94,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT199_1_B_images,82,82,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT204_6_A_images,53,53,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT204_6_B_images,52,52,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT76_39_A_images,94,94,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT76_39_B_images,39,39,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT80_38_A_images,74,74,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT80_38_B_images,86,86,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,ZT80_38_C_images,85,85,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,Gleason_masks_test_pathologist1_masks,245,245,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,Gleason_masks_test_pathologist2_masks,245,245,Public Harvard OCYCMP image/mask data; pattern-level supervision only.
+Harvard_OCYCMP,Gleason_masks_train_masks,641,641,Public Harvard OCYCMP image/mask data; pattern-level supervision only.

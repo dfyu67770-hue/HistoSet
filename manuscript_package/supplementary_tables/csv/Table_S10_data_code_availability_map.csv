@@ -1,0 +1,6 @@
+asset,availability_status,histoset_use
+Concept-annotation article and data repository,third-party public source; cite the source article and data repository,"ontology, annotation CSV, TissueArray explanation supervision, teacher reference"
+Gleason2019 challenge data,third-party public/registration-dependent source,pattern-level full-scale supervision and validation
+Harvard OCYCMP data,third-party public source,pattern-level full-scale supervision and validation after corrected mask mapping
+HistoSet derived tensors,derived local arrays; redistribution depends on source-data licences,"model training, figure source data, audit reproducibility"
+HistoSet source code,new project code; software licence reported with the released code package,hierarchical conformal concept-set segmentation and figure generation

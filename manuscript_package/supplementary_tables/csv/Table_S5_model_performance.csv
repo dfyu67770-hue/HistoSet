@@ -1,0 +1,20 @@
+index,method,metric,group,mean,std,count
+0,HistoSet dual-output,Direct macro Dice,dual-output,0.1549574842200971,0.0197433647478395,3
+1,HistoSet dual-output,Direct pattern Dice,dual-output,0.3456609814477404,0.0586847707297619,3
+2,HistoSet dual-output,Explanation Dice,dual-output,0.2832841905658522,0.0573995561131793,3
+3,HistoSet dual-output,Explanation macro Dice,dual-output,0.0571375951566619,0.0117583028805812,3
+4,HistoSet dual-output,Remapped pattern Dice,dual-output,0.2387396118428978,0.1434422369746466,3
+5,HistoSet teacher probe,Direct macro Dice,probe,0.1744650298743165,0.0014925560588713,4
+6,HistoSet teacher probe,Direct pattern Dice,probe,0.4121535832672279,0.0155183609078715,4
+7,HistoSet teacher probe,Explanation Dice,probe,0.3044258173352493,0.1381713226557168,4
+8,HistoSet teacher probe,Explanation macro Dice,probe,0.0630318871478424,0.0284241905302412,4
+9,HistoSet teacher probe,Remapped pattern Dice,probe,0.1594908377342669,0.034468168202138,4
+10,HistoSet teacher-assisted,Direct macro Dice,final-candidate,0.1728656112453665,0.0,3
+11,HistoSet teacher-assisted,Direct pattern Dice,final-candidate,0.4312582702544565,0.0,3
+12,HistoSet teacher-assisted,Explanation Dice,final-candidate,0.4712789143089206,0.0186113370944273,3
+13,HistoSet teacher-assisted,Explanation macro Dice,final-candidate,0.1730411902753034,0.0079989055560596,3
+14,HistoSet teacher-assisted,Remapped pattern Dice,final-candidate,0.3434248245666103,0.0312093657788174,3
+15,SMP pattern warm-up,Direct macro Dice,warm-up,0.1429447108325912,0.0254698073989884,4
+16,SMP pattern warm-up,Direct pattern Dice,warm-up,0.3496095959044146,0.0846283719491235,4
+17,TinyUNet diagnostic,Direct macro Dice,diagnostic,0.2394855425926111,0.0480223239900435,4
+18,TinyUNet diagnostic,Direct pattern Dice,diagnostic,0.412463440722235,0.0344458952516667,4

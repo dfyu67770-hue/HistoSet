@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1500" viewBox="0 0 2400 1500">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#141820}.title{font-size:54px;font-weight:700}.axis{font-size:38px}.label{font-size:34px}.small{font-size:28px;fill:#696c73}.bold{font-size:34px;font-weight:700}</style>
+<text x="90" y="92" class="title">Supplementary Fig. S3 | analysis split and supervision scope</text>
+<rect x="92" y="158" width="58" height="58" rx="8" fill="#141820"/><text x="109" y="204" class="bold" fill="white">a</text>
+<text x="172" y="206" class="axis">Dataset-wise split composition</text>
+<rect x="360" y="971" width="300" height="189" fill="#5b71ae"/>
+<text x="482.0" y="1077.5" class="bold" fill="white">169</text>
+<rect x="360" y="933" width="300" height="38" fill="#dc9d5b"/>
+<text x="482.0" y="964.0" class="bold" fill="white">34</text>
+<rect x="360" y="886" width="300" height="47" fill="#5b9c73"/>
+<text x="482.0" y="921.5" class="bold" fill="white">42</text>
+<text x="380" y="1255" class="axis">Gleason2019</text>
+<text x="480" y="868" class="small">n=245</text>
+<rect x="750" y="850" width="300" height="310" fill="#5b71ae"/>
+<text x="872.0" y="1017.0" class="bold" fill="white">277</text>
+<rect x="750" y="783" width="300" height="67" fill="#dc9d5b"/>
+<text x="872.0" y="828.5" class="bold" fill="white">60</text>
+<rect x="750" y="717" width="300" height="66" fill="#5b9c73"/>
+<text x="872.0" y="762.0" class="bold" fill="white">59</text>
+<text x="770" y="1255" class="axis">TissueArray</text>
+<text x="870" y="699" class="small">n=396</text>
+<rect x="1140" y="594" width="300" height="566" fill="#5b71ae"/>
+<text x="1262.0" y="889.0" class="bold" fill="white">506</text>
+<rect x="1140" y="512" width="300" height="82" fill="#dc9d5b"/>
+<text x="1262.0" y="565.0" class="bold" fill="white">74</text>
+<rect x="1140" y="170" width="300" height="342" fill="#5b9c73"/>
+<text x="1262.0" y="353.0" class="bold" fill="white">306</text>
+<text x="1160" y="1255" class="axis">Harvard OCYCMP</text>
+<text x="1260" y="152" class="small">n=886</text>
+<rect x="1515" y="310" width="100" height="50" fill="#5b71ae"/>
+<text x="1635" y="348" class="label">train</text>
+<rect x="1745" y="310" width="100" height="50" fill="#dc9d5b"/>
+<text x="1865" y="348" class="label">val</text>
+<rect x="1975" y="310" width="100" height="50" fill="#5b9c73"/>
+<text x="2095" y="348" class="label">test</text>
+<line x1="330" y1="260" x2="330" y2="1160" stroke="#141820" stroke-width="3"/>
+<line x1="318" y1="1160" x2="330" y2="1160" stroke="#141820" stroke-width="3"/>
+<text x="220" y="1170" class="small">0</text>
+<line x1="318" y1="936" x2="330" y2="936" stroke="#141820" stroke-width="3"/>
+<text x="220" y="946" class="small">200</text>
+<line x1="318" y1="712" x2="330" y2="712" stroke="#141820" stroke-width="3"/>
+<text x="220" y="722" class="small">400</text>
+<line x1="318" y1="488" x2="330" y2="488" stroke="#141820" stroke-width="3"/>
+<text x="220" y="498" class="small">600</text>
+<line x1="318" y1="264" x2="330" y2="264" stroke="#141820" stroke-width="3"/>
+<text x="220" y="274" class="small">800</text>
+<rect x="1510" y="500" width="58" height="58" rx="8" fill="#141820"/><text x="1527" y="546" class="bold" fill="white">b</text>
+<text x="1590" y="548" class="axis">Supervision level</text>
+<rect x="1530" y="645" width="735" height="95" rx="16" fill="#f8f9fb" stroke="#dadee6" stroke-width="2"/>
+<text x="1565" y="707" class="label">TissueArray</text>
+<rect x="2005" y="663" width="235" height="60" rx="16" fill="#5b9c73"/>
+<text x="2040" y="703" class="small" fill="white">pattern + concept</text>
+<rect x="1530" y="800" width="735" height="95" rx="16" fill="#f8f9fb" stroke="#dadee6" stroke-width="2"/>
+<text x="1565" y="862" class="label">Gleason2019</text>
+<rect x="2005" y="818" width="235" height="60" rx="16" fill="#5b71ae"/>
+<text x="2040" y="858" class="small" fill="white">pattern</text>
+<rect x="1530" y="955" width="735" height="95" rx="16" fill="#f8f9fb" stroke="#dadee6" stroke-width="2"/>
+<text x="1565" y="1017" class="label">Harvard OCYCMP</text>
+<rect x="2005" y="973" width="235" height="60" rx="16" fill="#5b71ae"/>
+<text x="2040" y="1013" class="small" fill="white">pattern</text>
+<text x="90" y="1388" class="small">All split records are sample-level; external datasets do not contribute explanation-class masks.</text></svg>

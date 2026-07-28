@@ -1,0 +1,11 @@
+label,short_label,union_pixels_for_class,foreground_pixels,pct_of_foreground_pixels
+benign tissue,benign tissue,4988861,9256934,53.893232899791656
+variable sized well-formed individual and discrete glands,individual glands,968559,9256934,10.463064768529192
+compressed or angular discrete glands,compressed glands,105067,9256934,1.1350086324478494
+poorly formed and fused glands,poorly formed glands,3303523,9256934,35.68701040754963
+Cribriform glands,cribriform glands,2048532,9256934,22.129702988051985
+Glomeruloid glands,glomeruloid glands,170377,9256934,1.840533809574531
+solid groups of tumor cells,group of tumor cells,1176072,9256934,12.704768123009195
+single cells,single cells,348166,9256934,3.7611373268946284
+cords,cords,1666292,9256934,18.000474023040457
+presence of comedonecrosis,comedonecrosis,745036,9256934,8.048409981101734

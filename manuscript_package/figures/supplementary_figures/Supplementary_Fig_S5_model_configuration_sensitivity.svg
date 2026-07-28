@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1500" viewBox="0 0 2400 1500">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#141820}.title{font-size:54px;font-weight:700}.axis{font-size:38px}.label{font-size:34px}.small{font-size:28px;fill:#696c73}.bold{font-size:34px;font-weight:700}</style>
+<text x="90" y="92" class="title">Supplementary Fig. S5 | model configuration sensitivity</text>
+<rect x="92" y="158" width="58" height="58" rx="8" fill="#141820"/><text x="109" y="204" class="bold" fill="white">a</text>
+<text x="172" y="206" class="axis">Held-out Dice by training and output configuration</text>
+<rect x="260" y="588" width="210" height="502" fill="#5b71ae"/>
+<text x="295" y="570" class="small">0.376</text>
+<text x="240" y="1180" class="axis">Hard labels</text>
+<rect x="650" y="469" width="210" height="621" fill="#5b9c73"/>
+<text x="685" y="451" class="small">0.465</text>
+<text x="630" y="1180" class="axis">Direct</text>
+<rect x="1040" y="579" width="210" height="511" fill="#5b71ae"/>
+<text x="1075" y="561" class="small">0.383</text>
+<text x="1020" y="1180" class="axis">Remapped</text>
+<rect x="1430" y="476" width="210" height="614" fill="#5b9c73"/>
+<text x="1465" y="458" class="small">0.460</text>
+<text x="1410" y="1180" class="axis">HistoSet</text>
+<rect x="1820" y="693" width="210" height="397" fill="#8869b6"/>
+<text x="1855" y="675" class="small">0.297</text>
+<text x="1800" y="1180" class="axis">Teacher</text>
+<line x1="200" y1="1090" x2="2140" y2="1090" stroke="#e0e2e8" stroke-width="3"/>
+<text x="110" y="1100" class="small">0.0</text>
+<line x1="200" y1="823" x2="2140" y2="823" stroke="#e0e2e8" stroke-width="3"/>
+<text x="110" y="833" class="small">0.2</text>
+<line x1="200" y1="556" x2="2140" y2="556" stroke="#e0e2e8" stroke-width="3"/>
+<text x="110" y="566" class="small">0.4</text>
+<rect x="1645" y="240" width="58" height="58" rx="8" fill="#141820"/><text x="1662" y="286" class="bold" fill="white">b</text>
+<text x="1725" y="288" class="axis">Interpretation</text>
+<rect x="1665" y="380" width="600" height="112" rx="18" fill="#f8f9fb" stroke="#d8dce4" stroke-width="2"/>
+<text x="1695" y="434" class="small">best pattern Dice</text>
+<text x="1695" y="478" class="bold">Direct head: 0.465</text>
+<rect x="1665" y="550" width="600" height="112" rx="18" fill="#f8f9fb" stroke="#d8dce4" stroke-width="2"/>
+<text x="1695" y="604" class="small">concept explanation Dice</text>
+<text x="1695" y="648" class="bold">HistoSet: 0.460</text>
+<rect x="1665" y="720" width="600" height="112" rx="18" fill="#f8f9fb" stroke="#d8dce4" stroke-width="2"/>
+<text x="1695" y="774" class="small">teacher reference</text>
+<text x="1695" y="818" class="bold">Teacher: 0.297</text>
+<text x="90" y="1388" class="small">Configurations are summarized from source-backed held-out evaluation tables.</text></svg>

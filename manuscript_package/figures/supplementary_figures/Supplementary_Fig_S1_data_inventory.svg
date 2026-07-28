@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1500" viewBox="0 0 2400 1500">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#141820}.title{font-size:54px;font-weight:700}.axis{font-size:38px}.label{font-size:34px}.small{font-size:28px;fill:#696c73}.bold{font-size:34px;font-weight:700}</style>
+<text x="90" y="92" class="title">Supplementary Fig. S1 | data acquisition and supervision inventory</text>
+<rect x="92" y="158" width="58" height="58" rx="8" fill="#141820"/><text x="109" y="204" class="bold" fill="white">a</text>
+<text x="172" y="206" class="axis">Prepared samples used for HistoSet development</text>
+<rect x="120" y="277" width="1940" height="134" rx="18" fill="#eaeffa"/>
+<text x="162" y="357" class="axis">TissueArray</text>
+<rect x="600" y="285" width="1370" height="118" fill="#f7f8fa" stroke="#d2d6e0"/>
+<rect x="600" y="285" width="612" height="118" fill="#5b71ae"/>
+<text x="1240" y="358" class="label">396</text>
+<rect x="120" y="447" width="1940" height="134" rx="18" fill="#e8f4ec"/>
+<text x="162" y="527" class="axis">Gleason2019</text>
+<rect x="600" y="455" width="1370" height="118" fill="#f7f8fa" stroke="#d2d6e0"/>
+<rect x="600" y="455" width="511" height="118" fill="#5b9c73"/>
+<text x="1139" y="528" class="label">331</text>
+<rect x="120" y="617" width="1940" height="134" rx="18" fill="#fcf1e4"/>
+<text x="162" y="697" class="axis">Harvard OCYCMP</text>
+<rect x="600" y="625" width="1370" height="118" fill="#f7f8fa" stroke="#d2d6e0"/>
+<rect x="600" y="625" width="1370" height="118" fill="#dc9d5b"/>
+<text x="1998" y="698" class="label">886</text>
+<rect x="92" y="878" width="58" height="58" rx="8" fill="#141820"/><text x="109" y="924" class="bold" fill="white">b</text>
+<text x="172" y="926" class="axis">Data integrity checks retained for manuscript audit</text>
+<rect x="150" y="1020" width="610" height="205" rx="22" fill="#f8f9fb" stroke="#d7dbe4" stroke-width="3"/>
+<text x="400" y="1108" class="title">26,520</text>
+<text x="220" y="1185" class="small">source identifiers recorded</text>
+<rect x="860" y="1020" width="610" height="205" rx="22" fill="#f8f9fb" stroke="#d7dbe4" stroke-width="3"/>
+<text x="1110" y="1108" class="title">245</text>
+<text x="930" y="1185" class="small">Gleason2019 image-map overlap</text>
+<rect x="1570" y="1020" width="610" height="205" rx="22" fill="#f8f9fb" stroke="#d7dbe4" stroke-width="3"/>
+<text x="1820" y="1108" class="title">886</text>
+<text x="1640" y="1185" class="small">Harvard image-mask overlap</text>
+<text x="90" y="1388" class="small">Counts are source-backed; concept-level explanation supervision is available for the TissueArray subset.</text></svg>

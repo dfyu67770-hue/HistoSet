@@ -1,0 +1,8 @@
+check,value,status
+prepared_samples,,pass
+preprocess_errors,,pass
+train_samples,,recorded
+val_samples,,recorded
+test_samples,,recorded
+harvard_mapping,"0=benign,1=G3,2=G4,3=G5,4=ignore",corrected
+external_explanation_labels,not available,scope boundary

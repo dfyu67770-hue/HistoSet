@@ -1,0 +1,137 @@
+block,method,seed,metric,value,evaluation_scope,display_method
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,301,Macro SoftDice,0.2306855729106267,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,301,L1-norm,1.464340006250714,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,301,Dice,0.2762534552160324,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,301,Macro Dice,0.1790770494133938,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,302,Macro SoftDice,0.2850151332670253,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,302,L1-norm,1.3486281872088552,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,302,Dice,0.4536996656785638,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,302,Macro Dice,0.3115724796007106,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,303,Macro SoftDice,0.3095105379530557,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,303,L1-norm,1.304737806027293,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,303,Dice,0.4652965207879562,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,303,Macro Dice,0.3475685782727577,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,304,Macro SoftDice,0.2941548115224038,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,304,L1-norm,1.372984144260022,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,304,Dice,0.3083471907087228,full-scale test pattern labels,Hard labels
+"Trained on Gleason patterns
+Evaluated on Gleason patterns",Hard labels,304,Macro Dice,0.2966428527336109,full-scale test pattern labels,Hard labels
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,408,Macro SoftDice,0.3095105379530557,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,408,L1-norm,1.304737806027293,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,408,Dice,0.4652965207879562,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,408,Macro Dice,0.3475685782727577,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,408,Macro SoftDice,0.2736407635009085,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,408,L1-norm,1.3758048466441086,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,408,Dice,0.3607612678818966,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,408,Macro Dice,0.2925358579769952,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on explanations",HistoSet,408,Macro SoftDice,0.1072878544721488,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on explanations",HistoSet,408,L1-norm,1.2874460765870952,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on explanations",HistoSet,408,Dice,0.4469324707764053,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on explanations",HistoSet,408,Macro Dice,0.1023343279272134,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,409,Macro SoftDice,0.3095105379530557,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,409,L1-norm,1.304737806027293,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,409,Dice,0.4652965207879562,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,409,Macro Dice,0.3475685782727577,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,409,Macro SoftDice,0.2753540073238014,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,409,L1-norm,1.3615019385879104,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,409,Dice,0.4186832714467478,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,409,Macro Dice,0.3082285356447561,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on explanations",HistoSet,409,Macro SoftDice,0.1085657380111825,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on explanations",HistoSet,409,L1-norm,1.2782028155811762,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on explanations",HistoSet,409,Dice,0.4804504228912084,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on explanations",HistoSet,409,Macro Dice,0.1186531649262749,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,410,Macro SoftDice,0.3095105379530557,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,410,L1-norm,1.304737806027293,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,410,Dice,0.4652965207879562,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Direct,410,Macro Dice,0.3475685782727577,full-scale test pattern labels,Direct
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,410,Macro SoftDice,0.284898492155946,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,410,L1-norm,1.3638613282609044,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,410,Dice,0.3698124768170403,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on Gleason patterns",Remapped,410,Macro Dice,0.305050241977344,full-scale test pattern labels,Remapped
+"Trained on explanations
+Evaluated on explanations",HistoSet,410,Macro SoftDice,0.1139183256859646,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on explanations",HistoSet,410,L1-norm,1.2510834902019825,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on explanations",HistoSet,410,Dice,0.4512865719460432,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on explanations",HistoSet,410,Macro Dice,0.118447733067136,TissueArray explanation-supervised test labels,HistoSet
+"Trained on explanations
+Evaluated on explanations",Teacher,404,Macro SoftDice,0.0768991983239603,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,404,L1-norm,1.6064021890446292,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,404,Dice,0.3298120081370426,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,404,Macro Dice,0.0695599094249578,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,405,Macro SoftDice,0.0812913447257743,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,405,L1-norm,1.583400304034605,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,405,Dice,0.3919737187207014,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,405,Macro Dice,0.0985407441289107,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,406,Macro SoftDice,0.080080583576508,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,406,L1-norm,1.574693748506449,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,406,Dice,0.3661118848319913,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,406,Macro Dice,0.0563548788896315,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,407,Macro SoftDice,0.0668220063658319,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,407,L1-norm,1.6952846898870952,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,407,Dice,0.1012028563934933,TissueArray explanation-supervised test labels,Teacher
+"Trained on explanations
+Evaluated on explanations",Teacher,407,Macro Dice,0.0497490337462409,TissueArray explanation-supervised test labels,Teacher

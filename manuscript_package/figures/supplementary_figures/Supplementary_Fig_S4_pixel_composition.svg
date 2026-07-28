@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1500" viewBox="0 0 2400 1500">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#141820}.title{font-size:54px;font-weight:700}.axis{font-size:38px}.label{font-size:34px}.small{font-size:28px;fill:#696c73}.bold{font-size:34px;font-weight:700}</style>
+<text x="90" y="92" class="title">Supplementary Fig. S4 | pixel composition after harmonized label mapping</text>
+<rect x="92" y="158" width="58" height="58" rx="8" fill="#141820"/><text x="109" y="204" class="bold" fill="white">a</text>
+<text x="172" y="206" class="axis">Mean valid-pixel composition by dataset</text>
+<text x="120" y="420" class="axis">Gleason2019</text>
+<rect x="610" y="285" width="330" height="220" fill="rgb(196,222,255)" stroke="#e8ecf2"/>
+<text x="730" y="430" class="label">15.8</text>
+<rect x="940" y="285" width="330" height="220" fill="rgb(171,208,255)" stroke="#e8ecf2"/>
+<text x="1060" y="430" class="label">23.7</text>
+<rect x="1270" y="285" width="330" height="220" fill="rgb(243,248,255)" stroke="#e8ecf2"/>
+<text x="1390" y="430" class="label">0.6</text>
+<rect x="1600" y="285" width="330" height="220" fill="rgb(60,145,255)" stroke="#e8ecf2"/>
+<text x="1720" y="430" class="label">59.9</text>
+<text x="120" y="640" class="axis">TissueArray</text>
+<rect x="610" y="505" width="330" height="220" fill="rgb(221,236,255)" stroke="#e8ecf2"/>
+<text x="730" y="650" class="label">7.6</text>
+<rect x="940" y="505" width="330" height="220" fill="rgb(146,194,255)" stroke="#e8ecf2"/>
+<text x="1060" y="650" class="label">31.9</text>
+<rect x="1270" y="505" width="330" height="220" fill="rgb(177,211,255)" stroke="#e8ecf2"/>
+<text x="1390" y="650" class="label">21.8</text>
+<rect x="1600" y="505" width="330" height="220" fill="rgb(125,182,255)" stroke="#e8ecf2"/>
+<text x="1720" y="650" class="label">38.8</text>
+<text x="120" y="860" class="axis">Harvard OCYCMP</text>
+<rect x="610" y="725" width="330" height="220" fill="rgb(129,184,255)" stroke="#e8ecf2"/>
+<text x="730" y="870" class="label">37.5</text>
+<rect x="940" y="725" width="330" height="220" fill="rgb(136,188,255)" stroke="#e8ecf2"/>
+<text x="1060" y="870" class="label">35.3</text>
+<rect x="1270" y="725" width="330" height="220" fill="rgb(200,224,255)" stroke="#e8ecf2"/>
+<text x="1390" y="870" class="label">14.3</text>
+<rect x="1600" y="725" width="330" height="220" fill="rgb(205,227,255)" stroke="#e8ecf2"/>
+<text x="1720" y="870" class="label">12.9</text>
+<text x="710" y="1035" class="axis">GP3</text>
+<text x="1040" y="1035" class="axis">GP4</text>
+<text x="1370" y="1035" class="axis">GP5</text>
+<text x="1700" y="1035" class="axis">Benign</text>
+<rect x="92" y="1060" width="58" height="58" rx="8" fill="#141820"/><text x="109" y="1106" class="bold" fill="white">b</text>
+<text x="172" y="1108" class="axis">Foreground burden range</text>
+<rect x="780" y="1138" width="320" height="112" rx="18" fill="#f8f9fb" stroke="#d8dce4" stroke-width="2"/>
+<text x="878" y="1194" class="label">40.1%</text>
+<text x="838" y="1238" class="small">Gleason2019</text>
+<rect x="1210" y="1138" width="320" height="112" rx="18" fill="#f8f9fb" stroke="#d8dce4" stroke-width="2"/>
+<text x="1308" y="1194" class="label">61.3%</text>
+<text x="1268" y="1238" class="small">TissueArray</text>
+<rect x="1640" y="1138" width="320" height="112" rx="18" fill="#f8f9fb" stroke="#d8dce4" stroke-width="2"/>
+<text x="1738" y="1194" class="label">87.1%</text>
+<text x="1698" y="1238" class="small">Harvard OCYCMP</text>
+<text x="1830" y="610" class="axis">mean % valid pixels</text>
+<text x="90" y="1388" class="small">Values summarize valid foreground pixels after harmonized benign, Gleason pattern 3, 4 and 5 mapping.</text></svg>

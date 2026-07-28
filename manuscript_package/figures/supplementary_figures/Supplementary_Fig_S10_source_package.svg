@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1500" viewBox="0 0 2400 1500">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#141820}.title{font-size:44px;font-weight:700}.panel{font-size:34px;font-weight:700}.head{font-size:28px;font-weight:700}.body{font-size:26px}.small{font-size:23px;fill:#5f6368}</style>
+<text x="80" y="95" class="title">Supplementary Fig. S10. Reproducible figure source package</text>
+<text x="80" y="185" class="panel">a</text><text x="125" y="190" class="head">Completeness of exported figure assets</text>
+<text x="180" y="234" class="body">Main figures</text>
+<rect x="180" y="250" width="1240" height="78" rx="8" fill="#eef2f7" stroke="#d2d7e0" stroke-width="2"/>
+<rect x="180" y="250" width="1240" height="78" rx="8" fill="#52916f"/>
+<text x="198" y="300" class="small" fill="white">PNG, SVG, PDF, TIFF</text>
+<text x="1456" y="300" class="body" fill="#5f6368">8/8 complete</text>
+<text x="180" y="380" class="body">Supplementary figures</text>
+<rect x="180" y="396" width="1240" height="78" rx="8" fill="#eef2f7" stroke="#d2d7e0" stroke-width="2"/>
+<rect x="180" y="396" width="1240" height="78" rx="8" fill="#52916f"/>
+<text x="198" y="446" class="small" fill="white">PNG, SVG, PDF, TIFF</text>
+<text x="1456" y="446" class="body" fill="#5f6368">12/12 complete</text>
+<text x="80" y="640" class="panel">b</text><text x="125" y="645" class="head">Machine-readable evidence package</text>
+<rect x="140" y="705" width="520" height="64" fill="#ebeff7" stroke="#d2d7e0"/>
+<text x="156" y="747" class="head">Component</text>
+<rect x="660" y="705" width="310" height="64" fill="#ebeff7" stroke="#d2d7e0"/>
+<text x="676" y="747" class="head">Items</text>
+<rect x="970" y="705" width="480" height="64" fill="#ebeff7" stroke="#d2d7e0"/>
+<text x="986" y="747" class="head">Required files</text>
+<rect x="1450" y="705" width="260" height="64" fill="#ebeff7" stroke="#d2d7e0"/>
+<text x="1466" y="747" class="head">Status</text>
+<rect x="1710" y="705" width="620" height="64" fill="#ebeff7" stroke="#d2d7e0"/>
+<text x="1726" y="747" class="head">Notes</text>
+<rect x="140" y="769" width="520" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="156" y="823" class="body" fill="#141820">Main figures</text>
+<rect x="660" y="769" width="310" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="676" y="823" class="body" fill="#141820">8/8</text>
+<rect x="970" y="769" width="480" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="986" y="823" class="body" fill="#141820">PNG, SVG, PDF, TIFF</text>
+<rect x="1450" y="769" width="260" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="1466" y="823" class="body" fill="#52916f">complete</text>
+<rect x="1710" y="769" width="620" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="1726" y="823" class="small" fill="#141820">No missing items detected</text>
+<rect x="140" y="855" width="520" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="156" y="909" class="body" fill="#141820">Supplementary figures</text>
+<rect x="660" y="855" width="310" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="676" y="909" class="body" fill="#141820">12/12</text>
+<rect x="970" y="855" width="480" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="986" y="909" class="body" fill="#141820">PNG, SVG, PDF, TIFF</text>
+<rect x="1450" y="855" width="260" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="1466" y="909" class="body" fill="#52916f">complete</text>
+<rect x="1710" y="855" width="620" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="1726" y="909" class="small" fill="#141820">No missing items detected</text>
+<rect x="140" y="941" width="520" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="156" y="995" class="body" fill="#141820">Figure source data</text>
+<rect x="660" y="941" width="310" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="676" y="995" class="body" fill="#141820">17/17</text>
+<rect x="970" y="941" width="480" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="986" y="995" class="body" fill="#141820">machine-readable CSV</text>
+<rect x="1450" y="941" width="260" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="1466" y="995" class="body" fill="#52916f">complete</text>
+<rect x="1710" y="941" width="620" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="1726" y="995" class="small" fill="#141820">No missing items detected</text>
+<rect x="140" y="1027" width="520" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="156" y="1081" class="body" fill="#141820">Supplementary tables</text>
+<rect x="660" y="1027" width="310" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="676" y="1081" class="body" fill="#141820">13/13</text>
+<rect x="970" y="1027" width="480" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="986" y="1081" class="body" fill="#141820">CSV tables and XLSX workbook</text>
+<rect x="1450" y="1027" width="260" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="1466" y="1081" class="body" fill="#52916f">complete</text>
+<rect x="1710" y="1027" width="620" height="86" fill="white" stroke="#d2d7e0"/>
+<text x="1726" y="1081" class="small" fill="#141820">No missing items detected</text>
+<text x="140" y="1195" class="small">All counts are generated from the active manuscript package and its source-data directory.</text>
+<text x="140" y="1240" class="small">This figure records export completeness and does not report model-performance results.</text>
+</svg>

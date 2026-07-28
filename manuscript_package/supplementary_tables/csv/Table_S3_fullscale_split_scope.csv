@@ -1,0 +1,10 @@
+dataset,split,has_pattern_supervision,has_explanation_supervision,n_samples
+Gleason2019,test,1,0,42
+Gleason2019,train,1,0,169
+Gleason2019,val,1,0,34
+TissueArray_concept_subset,test,1,1,59
+TissueArray_concept_subset,train,1,1,277
+TissueArray_concept_subset,val,1,1,60
+Harvard_OCYCMP,test,1,0,306
+Harvard_OCYCMP,train,1,0,506
+Harvard_OCYCMP,val,1,0,74

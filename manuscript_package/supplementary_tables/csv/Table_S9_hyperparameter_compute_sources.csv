@@ -1,0 +1,6 @@
+component,setting,source
+prepared tensors,512 px RGB image with foreground-valid masks,work/histoset/scripts/prepare_histoset_fullscale_512.py
+pattern warm-up,"SMP U-Net/ResNet18 direct pattern head, seeds 301-304",outputs/histoset/experiments/pattern_warmup_fullscale
+HistoSet final candidates,"teacher-assisted protected dual-output HistoSet, seeds 408-410",outputs/histoset/experiments/smp_histoset_fullscale
+active checkpoint,seed409 for Fig. 6-7 visual and conformal outputs,internal full-scale checkpoint path recorded in run log
+conformal alpha,alpha=0.10 for current main Fig. 6 set-valued outputs,outputs/histoset/source_data/figure6_fullscale_seed409_*conformal.csv

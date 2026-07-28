@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "histoset"
+version = "1.0.0"
+description = "Hierarchical conformal concept-set utilities for prostate cancer histopathology"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "HistoSet contributors" }
+]
+dependencies = [
+  "numpy>=1.23",
+  "pandas>=1.5"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["histoset*"]

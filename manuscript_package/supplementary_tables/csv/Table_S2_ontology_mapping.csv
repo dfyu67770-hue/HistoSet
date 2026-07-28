@@ -1,0 +1,30 @@
+gleason_pattern,explanation,short_explanation,sub_explanation_code,sub_explanation,conformal_label,concept_coverage_seed409_fullscale,concept_average_set_size_seed409_fullscale
+Gleason pattern 3,variable sized well-formed individual and discrete glands,individual glands,3.01,"well-formed, relatively uniform atypical glands with evenly distributed lumina",3 - individual glands,0.9368266759961876,8.594865546319866
+Gleason pattern 3,variable sized well-formed individual and discrete glands,individual glands,3.02,either minute or large and cyst-like atrophic atypical glands,3 - individual glands,0.9368266759961876,8.594865546319866
+Gleason pattern 3,variable sized well-formed individual and discrete glands,individual glands,3.03,"single, individual atypical glands separated from each other",3 - individual glands,0.9368266759961876,8.594865546319866
+Gleason pattern 3,variable sized well-formed individual and discrete glands,individual glands,3.04,atypical glands lying very closely together (with little stroma between adjacent atypical glands),3 - individual glands,0.9368266759961876,8.594865546319866
+Gleason pattern 3,variable sized well-formed individual and discrete glands,individual glands,3.05,atypical glands infiltrate between benign glands,3 - individual glands,0.9368266759961876,8.594865546319866
+Gleason pattern 3,variable sized well-formed individual and discrete glands,individual glands,3.06,atypical glands are looser than a nodule and are infiltrative,3 - individual glands,0.9368266759961876,8.594865546319866
+Gleason pattern 3,compressed or angular discrete glands,compressed glands,3.07,compressed or angular atypical glands,3 - compressed glands,1.0,8.782720825274017
+Gleason pattern 3,compressed or angular discrete glands,compressed glands,3.08,"atypical glands with an irregularly separated, ragged, poorly defined edge",3 - compressed glands,1.0,8.782720825274017
+Gleason pattern 4,poorly formed and fused glands,poorly formed and fused glands,4.01,atypical glands fused or grown together into cords or chains,4 - poorly formed glands,0.8958697953237825,8.583421540783283
+Gleason pattern 4,poorly formed and fused glands,poorly formed and fused glands,4.02,hypernephroid pattern fusion of acini into more solid sheets with the appearance of back-to-back glands without intervening stroma,4 - poorly formed glands,0.8958697953237825,8.583421540783283
+Gleason pattern 4,poorly formed and fused glands,poorly formed and fused glands,4.03,hypernephroid pattern nests of clear cells resembling renal cell carcinoma,4 - poorly formed glands,0.8958697953237825,8.583421540783283
+Gleason pattern 4,poorly formed and fused glands,poorly formed and fused glands,4.04,"hypernephroid pattern small, hyperchromatic nuclei",4 - poorly formed glands,0.8958697953237825,8.583421540783283
+Gleason pattern 4,poorly formed and fused glands,poorly formed and fused glands,4.05,"irregular contours, jagged edges of atypical glands",4 - poorly formed glands,0.8958697953237825,8.583421540783283
+Gleason pattern 4,poorly formed and fused glands,poorly formed and fused glands,4.06,large atypical glands,4 - poorly formed glands,0.8958697953237825,8.583421540783283
+Gleason pattern 4,poorly formed and fused glands,poorly formed and fused glands,4.07,slit-like lumina,4 - poorly formed glands,0.8958697953237825,8.583421540783283
+Gleason pattern 4,poorly formed and fused glands,poorly formed and fused glands,4.08,irregular distribution of lumina,4 - poorly formed glands,0.8958697953237825,8.583421540783283
+Gleason pattern 4,poorly formed and fused glands,poorly formed and fused glands,4.09,atypical glands very close together (with little or no stroma),4 - poorly formed glands,0.8958697953237825,8.583421540783283
+Gleason pattern 4,Cribriform glands,cribriform glands,4.1,cribriform confluent sheet of contiguous carcinoma cells with multiple glandular lumina that are easily visible at low power (objective magnification 10x),4 - cribriform glands,0.9638906329001394,8.419555397514182
+Gleason pattern 4,Cribriform glands,cribriform glands,4.11,cribriform larger than a normal prostate gland; tends to fragmentation,4 - cribriform glands,0.9638906329001394,8.419555397514182
+Gleason pattern 4,Cribriform glands,cribriform glands,4.12,cribriform single or fused glandular structures connected to each other (no intervening stroma or mucin),4 - cribriform glands,0.9638906329001394,8.419555397514182
+Gleason pattern 4,Glomeruloid glands,glomeruloid glands,4.13,glomeruloid pattern contains a tuft of cells that is largely detached from its surrounding duct space except for a single point of attachment,4 - glomeruloid glands,,
+Gleason pattern 4,Glomeruloid glands,glomeruloid glands,4.14,glomeruloid pattern rare small cribriform variant resembling glomerulus structures of kidney,4 - glomeruloid glands,,
+Gleason pattern 5,solid groups of tumor cells,solid groups of tumor cells,5.01,solid tumor cell clusters with nonpolar nuclei around a lumen,5 - group of tumor cells,0.9848098034209856,8.708338652029614
+Gleason pattern 5,single cells,single cells,5.02,single cells with vacuoles (signet ring cells) but without glandular lumina,5 - single cells,1.0,8.733333333333333
+Gleason pattern 5,single cells,single cells,5.03,single cells,5 - single cells,1.0,8.733333333333333
+Gleason pattern 5,cords,cords / line arrays,5.04,single cells forming cords,5 - cords,0.9439473525327536,8.350084525750166
+Gleason pattern 5,presence of comedonecrosis,presence of comedonecrosis,5.05,presence of definite comedonecrosis (central necrosis),5 - comedonecrosis,0.75,8.806818181818182
+Gleason pattern 5,presence of comedonecrosis,presence of comedonecrosis,5.06,presence of definite comedonecrosis (central necrosis) with intraluminal necrotic cells,5 - comedonecrosis,0.75,8.806818181818182
+Gleason pattern 5,presence of comedonecrosis,presence of comedonecrosis,5.07,"presence of definite comedonecrosis (central necrosis) with karyorrhexis within papillary, cribriform spaces",5 - comedonecrosis,0.75,8.806818181818182

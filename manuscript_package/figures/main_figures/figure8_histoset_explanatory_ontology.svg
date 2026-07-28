@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="418.95pt" height="488.412pt" viewBox="0 0 418.95 488.412" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-28T11:56:04.936289</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 488.412 
+L 418.95 488.412 
+L 418.95 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 63.837 31.217816 
+L 63.837 34.843147 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 63.837 34.843147 
+L 15.291 34.843147 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 15.291 47.078639 
+L 22.16835 47.078639 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 68.6916 54.782467 
+L 68.6916 56.595132 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 68.6916 56.595132 
+L 24.1911 56.595132 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 24.1911 68.150874 
+L 29.0457 68.150874 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 24.1911 91.171724 
+L 29.0457 91.171724 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 24.1911 114.192575 
+L 29.0457 114.192575 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 24.1911 138.708874 
+L 29.0457 138.708874 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 24.1911 161.729725 
+L 29.0457 161.729725 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 24.1911 183.255126 
+L 29.0457 183.255126 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 24.1911 68.150874 
+L 24.1911 183.255126 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 15.291 210.67169 
+L 22.16835 210.67169 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 68.6916 218.375518 
+L 68.6916 220.188184 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 68.6916 220.188184 
+L 24.1911 220.188184 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 24.1911 230.248476 
+L 29.0457 230.248476 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 24.1911 251.773878 
+L 29.0457 251.773878 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 24.1911 230.248476 
+L 24.1911 251.773878 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 15.291 47.078639 
+L 15.291 210.67169 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 198.349875 31.217816 
+L 198.349875 34.843147 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 198.349875 34.843147 
+L 134.63325 34.843147 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 134.63325 47.078639 
+L 141.5106 47.078639 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 203.204475 54.782467 
+L 203.204475 56.595132 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 203.204475 56.595132 
+L 143.53335 56.595132 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 143.53335 66.655425 
+L 148.38795 66.655425 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 143.53335 91.171724 
+L 148.38795 91.171724 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 143.53335 117.183473 
+L 148.38795 117.183473 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 143.53335 138.708874 
+L 148.38795 138.708874 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 143.53335 158.738827 
+L 148.38795 158.738827 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 143.53335 178.768779 
+L 148.38795 178.768779 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_31">
+    <path d="M 143.53335 198.798732 
+L 148.38795 198.798732 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 143.53335 218.828685 
+L 148.38795 218.828685 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 143.53335 240.354086 
+L 148.38795 240.354086 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 143.53335 66.655425 
+L 143.53335 240.354086 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 134.63325 267.77065 
+L 141.5106 267.77065 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 203.204475 275.474478 
+L 203.204475 277.287143 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 203.204475 277.287143 
+L 143.53335 277.287143 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_38">
+    <path d="M 143.53335 293.329232 
+L 148.38795 293.329232 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_39">
+    <path d="M 143.53335 320.836429 
+L 148.38795 320.836429 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_40">
+    <path d="M 143.53335 345.352729 
+L 148.38795 345.352729 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_41">
+    <path d="M 143.53335 293.329232 
+L 143.53335 345.352729 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_42">
+    <path d="M 134.63325 374.264742 
+L 141.5106 374.264742 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_43">
+    <path d="M 203.204475 381.96857 
+L 203.204475 383.781235 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_44">
+    <path d="M 203.204475 383.781235 
+L 143.53335 383.781235 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_45">
+    <path d="M 143.53335 398.327875 
+L 148.38795 398.327875 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_46">
+    <path d="M 143.53335 425.835072 
+L 148.38795 425.835072 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_47">
+    <path d="M 143.53335 398.327875 
+L 143.53335 425.835072 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_48">
+    <path d="M 134.63325 47.078639 
+L 134.63325 374.264742 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_49">
+    <path d="M 343.7856 31.217816 
+L 343.7856 34.843147 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_50">
+    <path d="M 343.7856 34.843147 
+L 287.55315 34.843147 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_51">
+    <path d="M 287.55315 47.078639 
+L 294.4305 47.078639 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_52">
+    <path d="M 348.6402 54.782467 
+L 348.6402 56.595132 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_53">
+    <path d="M 348.6402 56.595132 
+L 296.45325 56.595132 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_54">
+    <path d="M 296.45325 66.655425 
+L 301.30785 66.655425 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_55">
+    <path d="M 296.45325 66.655425 
+L 296.45325 66.655425 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_56">
+    <path d="M 287.55315 92.57654 
+L 294.4305 92.57654 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_57">
+    <path d="M 348.6402 100.280368 
+L 348.6402 102.093033 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_58">
+    <path d="M 348.6402 102.093033 
+L 296.45325 102.093033 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_59">
+    <path d="M 296.45325 113.648775 
+L 301.30785 113.648775 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_60">
+    <path d="M 296.45325 135.174177 
+L 301.30785 135.174177 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_61">
+    <path d="M 296.45325 113.648775 
+L 296.45325 135.174177 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_62">
+    <path d="M 287.55315 161.095292 
+L 294.4305 161.095292 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_63">
+    <path d="M 348.6402 168.79912 
+L 348.6402 170.611785 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_64">
+    <path d="M 348.6402 170.611785 
+L 296.45325 170.611785 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_65">
+    <path d="M 296.45325 180.672078 
+L 301.30785 180.672078 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_66">
+    <path d="M 296.45325 180.672078 
+L 296.45325 180.672078 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_67">
+    <path d="M 287.55315 206.593193 
+L 294.4305 206.593193 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_68">
+    <path d="M 348.6402 214.297021 
+L 348.6402 216.109686 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_69">
+    <path d="M 348.6402 216.109686 
+L 296.45325 216.109686 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_70">
+    <path d="M 296.45325 227.665428 
+L 301.30785 227.665428 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_71">
+    <path d="M 296.45325 252.181728 
+L 301.30785 252.181728 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_72">
+    <path d="M 296.45325 279.688925 
+L 301.30785 279.688925 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_73">
+    <path d="M 296.45325 227.665428 
+L 296.45325 279.688925 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="line2d_74">
+    <path d="M 287.55315 47.078639 
+L 287.55315 206.593193 
+" clip-path="url(#pdb06139625)" style="fill: none; stroke: #4b4b4b; stroke-width: 0.55"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 11.2455 31.217816 
+L 116.4285 31.217816 
+L 116.4285 12.18483 
+L 11.2455 12.18483 
+z
+" clip-path="url(#pdb06139625)" style="fill: #5269a8; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 22.16835 54.782467 
+L 115.21485 54.782467 
+L 115.21485 39.374811 
+L 22.16835 39.374811 
+z
+" clip-path="url(#pdb06139625)" style="fill: #c8d0eb; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 29.0457 77.803317 
+L 114.8103 77.803317 
+L 114.8103 58.498431 
+L 29.0457 58.498431 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 29.0457 100.824167 
+L 114.8103 100.824167 
+L 114.8103 81.519281 
+L 29.0457 81.519281 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 29.0457 123.845018 
+L 114.8103 123.845018 
+L 114.8103 104.540132 
+L 29.0457 104.540132 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 29.0457 149.856766 
+L 114.8103 149.856766 
+L 114.8103 127.560982 
+L 29.0457 127.560982 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 29.0457 169.886719 
+L 114.8103 169.886719 
+L 114.8103 153.57273 
+L 29.0457 153.57273 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 29.0457 192.907569 
+L 114.8103 192.907569 
+L 114.8103 173.602683 
+L 29.0457 173.602683 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 22.16835 218.375518 
+L 115.21485 218.375518 
+L 115.21485 202.967862 
+L 22.16835 202.967862 
+z
+" clip-path="url(#pdb06139625)" style="fill: #c8d0eb; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 29.0457 238.405471 
+L 114.8103 238.405471 
+L 114.8103 222.091482 
+L 29.0457 222.091482 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 29.0457 261.426321 
+L 114.8103 261.426321 
+L 114.8103 242.121435 
+L 29.0457 242.121435 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 130.58775 31.217816 
+L 266.112 31.217816 
+L 266.112 12.18483 
+L 130.58775 12.18483 
+z
+" clip-path="url(#pdb06139625)" style="fill: #5269a8; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 141.5106 54.782467 
+L 264.89835 54.782467 
+L 264.89835 39.374811 
+L 141.5106 39.374811 
+z
+" clip-path="url(#pdb06139625)" style="fill: #c8d0eb; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 148.38795 74.812419 
+L 264.4938 74.812419 
+L 264.4938 58.498431 
+L 148.38795 58.498431 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 148.38795 103.815065 
+L 264.4938 103.815065 
+L 264.4938 78.528383 
+L 148.38795 78.528383 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 148.38795 126.835916 
+L 264.4938 126.835916 
+L 264.4938 107.531029 
+L 148.38795 107.531029 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 148.38795 146.865868 
+L 264.4938 146.865868 
+L 264.4938 130.55188 
+L 148.38795 130.55188 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 148.38795 166.895821 
+L 264.4938 166.895821 
+L 264.4938 150.581833 
+L 148.38795 150.581833 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 148.38795 186.925774 
+L 264.4938 186.925774 
+L 264.4938 170.611785 
+L 148.38795 170.611785 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 148.38795 206.955726 
+L 264.4938 206.955726 
+L 264.4938 190.641738 
+L 148.38795 190.641738 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 148.38795 226.985679 
+L 264.4938 226.985679 
+L 264.4938 210.67169 
+L 148.38795 210.67169 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 148.38795 250.006529 
+L 264.4938 250.006529 
+L 264.4938 230.701643 
+L 148.38795 230.701643 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 141.5106 275.474478 
+L 264.89835 275.474478 
+L 264.89835 260.066822 
+L 141.5106 260.066822 
+z
+" clip-path="url(#pdb06139625)" style="fill: #c8d0eb; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 148.38795 307.468022 
+L 264.4938 307.468022 
+L 264.4938 279.190442 
+L 148.38795 279.190442 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 148.38795 330.488873 
+L 264.4938 330.488873 
+L 264.4938 311.183986 
+L 148.38795 311.183986 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 148.38795 356.500621 
+L 264.4938 356.500621 
+L 264.4938 334.204837 
+L 148.38795 334.204837 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 141.5106 381.96857 
+L 264.89835 381.96857 
+L 264.89835 366.560914 
+L 141.5106 366.560914 
+z
+" clip-path="url(#pdb06139625)" style="fill: #c8d0eb; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 148.38795 410.971216 
+L 264.4938 410.971216 
+L 264.4938 385.684534 
+L 148.38795 385.684534 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 148.38795 436.982964 
+L 264.4938 436.982964 
+L 264.4938 414.68718 
+L 148.38795 414.68718 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 283.50765 31.217816 
+L 404.06355 31.217816 
+L 404.06355 12.18483 
+L 283.50765 12.18483 
+z
+" clip-path="url(#pdb06139625)" style="fill: #5269a8; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 294.4305 54.782467 
+L 402.8499 54.782467 
+L 402.8499 39.374811 
+L 294.4305 39.374811 
+z
+" clip-path="url(#pdb06139625)" style="fill: #c8d0eb; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 301.30785 74.812419 
+L 402.44535 74.812419 
+L 402.44535 58.498431 
+L 301.30785 58.498431 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 294.4305 100.280368 
+L 402.8499 100.280368 
+L 402.8499 84.872712 
+L 294.4305 84.872712 
+z
+" clip-path="url(#pdb06139625)" style="fill: #c8d0eb; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 301.30785 123.301218 
+L 402.44535 123.301218 
+L 402.44535 103.996332 
+L 301.30785 103.996332 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 301.30785 143.331171 
+L 402.44535 143.331171 
+L 402.44535 127.017182 
+L 301.30785 127.017182 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 294.4305 168.79912 
+L 402.8499 168.79912 
+L 402.8499 153.391464 
+L 294.4305 153.391464 
+z
+" clip-path="url(#pdb06139625)" style="fill: #c8d0eb; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 301.30785 188.829072 
+L 402.44535 188.829072 
+L 402.44535 172.515084 
+L 301.30785 172.515084 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 294.4305 214.297021 
+L 402.8499 214.297021 
+L 402.8499 198.889365 
+L 294.4305 198.889365 
+z
+" clip-path="url(#pdb06139625)" style="fill: #c8d0eb; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 301.30785 237.317872 
+L 402.44535 237.317872 
+L 402.44535 218.012985 
+L 301.30785 218.012985 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 301.30785 263.32962 
+L 402.44535 263.32962 
+L 402.44535 241.033836 
+L 301.30785 241.033836 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 301.30785 292.332266 
+L 402.44535 292.332266 
+L 402.44535 267.045584 
+L 301.30785 267.045584 
+z
+" clip-path="url(#pdb06139625)" style="fill: #ffffff; stroke: #4b4b4b; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 6.1px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="63.837" y="23.884456" transform="rotate(-0 63.837 23.884456)">Gleason Pattern 3</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(51.316655 45.950432)">individual glands</text>
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(50.010936 50.581814)">[individual glands]</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(53.315355 63.456374)">well-formed, relatively</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(48.283285 67.250166)">uniform atypical glands with</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(50.743074 71.020496)">evenly distributed lumina</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(68.18177 75.200792)">3.01</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(49.993527 86.453764)">either minute or large and</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(50.532227 90.247555)">cyst-like atrophic atypical</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(66.255867 94.041347)">glands</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(68.18177 98.221642)">3.02</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(50.741871 109.474614)">single, individual atypical</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(48.066723 113.291867)">glands separated from each</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(67.540805 117.444791)">other</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(68.18177 121.242492)">3.03</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(50.52952 132.094018)">atypical glands lying very</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(49.889457 135.91127)">closely together (with little</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(50.420937 139.681601)">stroma between adjacent</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(58.553461 143.498853)">atypical glands)</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(68.18177 147.655688)">3.04</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(51.91973 158.932121)">atypical glands infiltrate</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(52.128773 162.702451)">between benign glands</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(68.18177 166.882747)">3.05</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(50.100305 178.537166)">atypical glands are looser</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(53.198652 182.713551)">than a nodule and are</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(63.797883 186.530803)">infiltrative</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(68.18177 190.305044)">3.06</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(48.315264 209.543484)">compressed glands</text>
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(47.009545 214.174866)">[compressed glands]</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(45.180125 227.427412)">compressed or angular atypical</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(66.255867 231.221203)">glands</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(68.18177 235.401498)">3.07</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(52.560695 247.055917)">atypical glands with an</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(46.783891 250.849709)">irregularly separated, ragged,</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(55.01898 254.666961)">poorly defined edge</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(68.18177 258.823796)">3.08</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 6.1px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="198.349875" y="23.884456" transform="rotate(-0 198.349875 23.884456)">Gleason Pattern 4</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(181.260983 45.979073)">poorly formed glands</text>
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(179.955264 50.610455)">[poorly formed glands]</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(180.440141 63.857821)">atypical glands fused or grown</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(182.152789 67.628151)">together into cords or chains</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 71.809349)">4.01</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(181.935926 82.683433)">hypernephroid pattern fusion</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(187.289832 86.859818)">of acini into more solid</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(180.758969 90.293575)">sheets with the appearance of</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(182.581102 94.041347)">back-to-back glands without</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(190.606848 97.835138)">intervening stroma</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 102.016336)">4.02</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(180.331559 112.488973)">hypernephroid pattern nests of</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(183.118598 116.259303)">clear cells resembling renal</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(194.138621 120.435689)">cell carcinoma</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 124.23339)">4.03</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(182.045711 135.887809)">hypernephroid pattern small,</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(187.718445 139.681601)">hyperchromatic nuclei</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 143.862799)">4.04</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(184.61348 155.917762)">irregular contours, jagged</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(185.788031 159.735014)">edges of atypical glands</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 163.892751)">4.05</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(188.892395 177.84461)">large atypical glands</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 182.025808)">4.06</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(194.35368 198.257156)">slit-like lumina</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 202.05576)">4.07</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(187.397211 216.031081)">irregular distribution of</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(200.770547 220.184005)">lumina</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 223.982609)">4.08</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(184.507605 235.636125)">atypical glands very close</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(185.89902 239.453378)">together (with little or no</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(199.91723 243.247169)">stroma)</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 247.404906)">4.09</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(185.836506 266.671084)">cribriform glands</text>
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(184.530788 271.302466)">[cribriform glands]</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(182.690285 283.326639)">cribriform confluent sheet of</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(183.330949 286.714376)">contiguous carcinoma cells</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(181.190891 290.508167)">with multiple glandular lumina</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(183.010316 294.301959)">that are easily visible at low</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(180.549023 298.119211)">power (objective magnification</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.696449 301.913003)">10x)</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 306.070739)">4.10</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(187.078684 316.14193)">cribriform larger than a</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(182.044809 319.91226)">normal prostate gland; tends</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(192.530945 323.729513)">to fragmentation</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.837516 327.91071)">4.11</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(185.366938 338.761333)">cribriform single or fused</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(180.118906 342.531664)">glandular structures connected</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(181.936828 346.348916)">to each other (no intervening</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(192.00157 350.142708)">stroma or mucin)</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 354.323906)">4.12</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(183.479897 373.136535)">glomeruloid glands</text>
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(182.174178 377.767917)">[glomeruloid glands]</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(180.653695 389.816123)">glomeruloid pattern contains a</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(185.364832 393.633375)">tuft of cells that is largely</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(180.976133 397.427167)">detached from its surrounding</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(180.97493 401.220958)">duct space except for a single</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(190.069352 405.037308)">point of attachment</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 409.171584)">4.13</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(180.97884 419.220216)">glomeruloid pattern rare small</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(182.159105 423.037468)">cribriform variant resembling</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(185.900824 426.83126)">glomerulus structures of</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(200.876723 430.60159)">kidney</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(202.694645 434.806249)">4.14</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 6.1px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="343.7856" y="23.884456" transform="rotate(-0 343.7856 23.884456)">Gleason Pattern 5</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(326.82963 45.979073)">groups of tumor cells</text>
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(325.523911 50.610455)">[groups of tumor cells]</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(327.914862 64.216954)">solid tumor cell clusters with</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(324.910057 67.65071)">nonpolar nuclei around a lumen</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(348.13037 71.809349)">5.01</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(337.146497 91.448333)">single cells</text>
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(335.840778 96.079715)">[single cells]</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(330.371643 108.930814)">single cells with vacuoles</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(334.117573 112.748067)">(signet ring cells) but</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(331.118483 116.518397)">without glandular lumina</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(348.13037 120.699595)">5.02</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(342.461545 134.250007)">single cells</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(348.13037 138.430303)">5.03</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(342.894083 160.434148)">cords</text>
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(341.588364 164.626006)">[cords]</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(330.26667 179.77137)">single cells forming cords</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(348.13037 183.929107)">5.04</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(331.530364 205.932049)">comedonecrosis</text>
+    <text style="font-size: 4.7px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(330.224645 210.123907)">[comedonecrosis]</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(335.076463 222.993487)">presence of definite</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(330.907936 226.76472)">comedonecrosis (central</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(344.068018 230.558512)">necrosis)</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(348.13037 234.716248)">5.05</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(335.076463 245.612891)">presence of definite</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(330.907936 249.384124)">comedonecrosis (central</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(329.732784 253.177915)">necrosis) with intraluminal</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(340.751002 257.33084)">necrotic cells</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(348.13037 261.129444)">5.06</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(335.076463 271.223192)">presence of definite</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(330.907936 274.994425)">comedonecrosis (central</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(329.092721 278.788217)">necrosis) with karyorrhexis</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(330.30517 282.582008)">within papillary, cribriform</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(345.777659 286.01787)">spaces</text>
+    <text style="font-size: 3.85px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(348.13037 290.533537)">5.07</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdb06139625">
+   <rect x="7.2" y="7.2" width="404.55" height="474.012"/>
+  </clipPath>
+ </defs>
+</svg>

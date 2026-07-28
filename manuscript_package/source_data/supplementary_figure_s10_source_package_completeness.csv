@@ -1,0 +1,5 @@
+component,complete_items,total_items,required_files,status,notes
+Main figures,8,8,"PNG, SVG, PDF, TIFF",complete,
+Supplementary figures,12,12,"PNG, SVG, PDF, TIFF",complete,
+Figure source data,17,17,machine-readable CSV,complete,
+Supplementary tables,13,13,CSV tables and XLSX workbook,complete,

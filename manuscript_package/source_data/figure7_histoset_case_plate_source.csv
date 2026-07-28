@@ -1,0 +1,10 @@
+sample_id,source_id,direct_accuracy,concept_accuracy,columns
+GleasonXAI_TissueArray__PR633a_E6,PR633a_E6,0.44759297550747007,0.4895078644093247,"H&E; HistoSet direct pattern; pattern map from pixels with >=1, >=2, and 3 annotator votes"
+GleasonXAI_TissueArray__PR1921b_B11,PR1921b_B11,0.4454704664862283,0.4106185293336873,"H&E; HistoSet direct pattern; pattern map from pixels with >=1, >=2, and 3 annotator votes"
+GleasonXAI_TissueArray__PR482a_E2,PR482a_E2,0.5122157386704477,0.5791444144689754,"H&E; HistoSet direct pattern; pattern map from pixels with >=1, >=2, and 3 annotator votes"
+GleasonXAI_TissueArray__PR1921b_D2,PR1921b_D2,0.4023957409050577,0.3856460272892961,"H&E; HistoSet direct pattern; pattern map from pixels with >=1, >=2, and 3 annotator votes"
+GleasonXAI_TissueArray__PR1001_C1,PR1001_C1,0.5061488673139158,0.2191841397354166,"H&E; HistoSet direct pattern; pattern map from pixels with >=1, >=2, and 3 annotator votes"
+GleasonXAI_TissueArray__PR1921c_E12,PR1921c_E12,0.45277620250554207,0.5211695462312512,"H&E; HistoSet direct pattern; pattern map from pixels with >=1, >=2, and 3 annotator votes"
+GleasonXAI_TissueArray__PR1921c_B7,PR1921c_B7,0.3977679741416965,0.4632764073371284,"H&E; HistoSet direct pattern; pattern map from pixels with >=1, >=2, and 3 annotator votes"
+GleasonXAI_TissueArray__PR1001_G10,PR1001_G10,0.5111504131317877,0.6275128434219344,"H&E; HistoSet direct pattern; pattern map from pixels with >=1, >=2, and 3 annotator votes"
+GleasonXAI_TissueArray__PR1921c_B5,PR1921c_B5,0.4811522194390835,0.2910386463509795,"H&E; HistoSet direct pattern; pattern map from pixels with >=1, >=2, and 3 annotator votes"

@@ -1,0 +1,42 @@
+label,n_cores,level,grade,short_label,pct_cores
+3,566,pattern,3,3,55.76354679802956
+4,756,pattern,4,4,74.48275862068967
+5,328,pattern,5,5,32.31527093596059
+variable sized well-formed individual and discrete glands,563,explanation,3,3 individual glands,55.4679802955665
+compressed or angular discrete glands,269,explanation,3,3 compressed glands,26.502463054187192
+poorly formed and fused glands,729,explanation,4,4 poorly/fused glands,71.82266009852218
+Cribriform glands,395,explanation,4,4 cribriform glands,38.91625615763547
+Glomeruloid glands,57,explanation,4,4 glomeruloid glands,5.615763546798029
+solid groups of tumor cells,273,explanation,5,5 solid groups,26.89655172413793
+cords,222,explanation,5,5 cords,21.87192118226601
+single cells,111,explanation,5,5 single cells,10.935960591133004
+presence of comedonecrosis,82,explanation,5,5 comedonecrosis,8.078817733990148
+"single, individual atypical glands separated from each other",503,sub-explanation,3,3.01 single individual glands,49.556650246305416
+atypical glands lying very closely together (with little stroma between adjacent atypical glands),265,sub-explanation,3,3.05 closely spaced glands,26.108374384236456
+compressed or angular atypical glands,185,sub-explanation,3,3.07 compressed/angular glands,18.22660098522168
+"well-formed, relatively uniform atypical glands with evenly distributed lumina",144,sub-explanation,3,3.06 well-formed uniform glands,14.1871921182266
+"atypical glands with an irregularly separated, ragged, poorly defined edge",130,sub-explanation,3,3.02 ragged poorly defined edge,12.807881773399016
+either minute or large and cyst-like atrophic atypical glands,114,sub-explanation,3,3.04 minute/cyst-like glands,11.23152709359606
+atypical glands are looser than a nodule and are infiltrative,105,sub-explanation,3,3.03 loose infiltrative glands,10.344827586206897
+atypical glands infiltrate between benign glands,49,sub-explanation,3,3.08 infiltrating benign glands,4.827586206896552
+atypical glands fused or grown together into cords or chains,526,sub-explanation,4,4.04 fused cords/chains,51.82266009852216
+atypical glands very close together (with little or no stroma),404,sub-explanation,4,4.06 no/little stroma,39.80295566502463
+"irregular contours, jagged edges of atypical glands",370,sub-explanation,4,4.03 jagged edges,36.45320197044335
+cribriform confluent sheet of contiguous carcinoma cells with multiple glandular lumina that are easily visible at low power (objective magnification 10x),303,sub-explanation,4,4.09 confluent cribriform,29.852216748768477
+slit-like lumina,233,sub-explanation,4,4.01 slit-like lumina,22.95566502463054
+large atypical glands,201,sub-explanation,4,4.02 large atypical glands,19.80295566502463
+cribriform single or fused glandular structures connected to each other (no intervening stroma or mucin),193,sub-explanation,4,4.10 connected cribriform,19.014778325123157
+irregular distribution of lumina,125,sub-explanation,4,4.05 irregular lumina,12.31527093596059
+cribriform larger than a normal prostate gland; tends to fragmentation,67,sub-explanation,4,4.08 large fragmented cribriform,6.600985221674876
+hypernephroid pattern nests of clear cells resembling renal cell carcinoma,49,sub-explanation,4,4.12 clear-cell nests,4.827586206896552
+glomeruloid pattern contains a tuft of cells that is largely detached from its surrounding duct space except for a single point of attachment,37,sub-explanation,4,4.17 attached tuft,3.645320197044335
+hypernephroid pattern fusion of acini into more solid sheets with the appearance of back-to-back glands without intervening stroma,35,sub-explanation,4,4.14 hypernephroid sheets,3.4482758620689653
+glomeruloid pattern rare small cribriform variant resembling glomerulus structures of kidney,32,sub-explanation,4,4.16 small glomeruloid variant,3.152709359605911
+"hypernephroid pattern small, hyperchromatic nuclei",31,sub-explanation,4,4.13 hyperchromatic nuclei,3.054187192118227
+solid tumor cell clusters with nonpolar nuclei around a lumen,273,sub-explanation,5,5.01 solid groups,26.89655172413793
+single cells forming cords,222,sub-explanation,5,5.06 single-cell cords,21.87192118226601
+single cells with vacuoles (signet ring cells) but without glandular lumina,102,sub-explanation,5,5.07 signet-ring-like cells,10.049261083743842
+presence of definite comedonecrosis (central necrosis) with intraluminal necrotic cells,48,sub-explanation,5,5.03 intraluminal necrotic cells,4.729064039408867
+presence of definite comedonecrosis (central necrosis),27,sub-explanation,5,5.02 central necrosis,2.6600985221674875
+"presence of definite comedonecrosis (central necrosis) with karyorrhexis within papillary, cribriform spaces",23,sub-explanation,5,5.04 karyorrhexis,2.2660098522167487
+single cells,13,sub-explanation,5,5.05 single cells,1.2807881773399017

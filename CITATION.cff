@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use HistoSet, please cite the archived software release and the associated manuscript."
+title: "HistoSet: hierarchical conformal concept-set segmentation for prostate cancer histopathology"
+version: "1.0.0"
+date-released: "2026-07-28"
+authors:
+  - name: "HistoSet contributors"
+license: MIT
+keywords:
+  - computational pathology
+  - prostate cancer
+  - Gleason grading
+  - conformal prediction
+  - concept-based learning
