@@ -4,6 +4,8 @@ HistoSet is an uncertainty-aware, concept-based framework for prostate cancer hi
 
 This repository contains the release materials associated with the HistoSet manuscript package prepared for Journal of Translational Medicine submission.
 
+Repository: https://github.com/dfyu67770-hue/HistoSet
+
 ## Repository Contents
 
 - `manuscript_package/`: manuscript-facing release candidate with main figures, supplementary figures, source data, supplementary tables, manuscript document, cover letter, and checksums.
@@ -19,7 +21,7 @@ This repository does not redistribute third-party source histopathology images o
 
 ## Release
 
-The intended first archival release is `v1.0.0`. After this repository is connected to Zenodo and a GitHub release is published, the Zenodo DOI should be added to the manuscript Data and Code Availability statement and to this README.
+The first GitHub release is `v1.0.0`: https://github.com/dfyu67770-hue/HistoSet/releases/tag/v1.0.0. After Zenodo archiving is completed, the Zenodo DOI should be added to the manuscript Data and Code Availability statement and to this README.
 
 ## Licence
 

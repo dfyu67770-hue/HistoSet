@@ -6,6 +6,7 @@ date-released: "2026-07-28"
 authors:
   - name: "HistoSet contributors"
 license: MIT
+repository-code: "https://github.com/dfyu67770-hue/HistoSet"
 keywords:
   - computational pathology
   - prostate cancer
