@@ -1,0 +1,8 @@
+horizontal_flip: true
+vertical_flip: true
+rotation_degrees: 90
+color_jitter:
+  brightness: 0.10
+  contrast: 0.10
+  saturation: 0.05
+  hue: 0.02

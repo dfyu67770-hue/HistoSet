@@ -1,0 +1,8 @@
+name: histoset_unet
+encoder: efficientnet_b0
+pretrained: true
+heads:
+  concept: true
+  pattern: true
+  hierarchy: true
+  conformal: true

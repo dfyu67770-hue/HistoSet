@@ -1,10 +1,18 @@
 # Release Notes
 
+## v1.0.1
+
+Repository-structure and metadata release.
+
+- Replaces submission-stage wording with neutral study and reproducibility language.
+- Adds software-style setup, prediction, visualization, and training entry points.
+- Adds configuration scaffolds for the HistoSet workflow.
+
 ## v1.0.0
 
 Initial HistoSet release package.
 
-- Provides the manuscript-facing figure package, supplementary tables, source-data CSVs, manuscript document, and checksum manifest.
+- Provides the figure package, supplementary tables, source-data CSVs, manuscript document, and checksum manifest.
 - Defines MIT licensing for author-developed HistoSet code and documentation.
 - Includes Zenodo metadata for software archiving.
 - Does not redistribute third-party source histopathology images or masks.

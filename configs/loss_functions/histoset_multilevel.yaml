@@ -1,0 +1,6 @@
+soft_segmentation: 1.0
+direct_pattern: 0.5
+hierarchy_consistency: 0.2
+rare_concept: 0.2
+ordinal_pattern: 0.1
+calibration: 0.1

@@ -1,0 +1,5 @@
+max_epochs: 100
+precision: 16
+monitor: validation_macro_dice
+mode: max
+early_stopping_patience: 20

@@ -1,0 +1,9 @@
+data_root: ${oc.env:HISTOSET_DATASET_LOCATION}
+manifest: manifest/histoset_manifest.csv
+label_levels:
+  pattern: 0
+  explanation: 1
+  subconcept: 2
+split_key: split
+image_key: image_path
+mask_key: mask_path

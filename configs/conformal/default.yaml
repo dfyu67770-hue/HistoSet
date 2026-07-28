@@ -1,0 +1,4 @@
+alpha: 0.10
+calibration_split: validation
+score: inverse_probability
+minimum_set_size: 1

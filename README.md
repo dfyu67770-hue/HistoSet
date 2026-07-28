@@ -1,19 +1,116 @@
 # HistoSet
 
-HistoSet is an uncertainty-aware, concept-based framework for prostate cancer histopathology segmentation and Gleason-pattern evaluation. The project combines hierarchical morphologic concepts, soft-label supervision, direct Gleason-pattern prediction, conformal concept sets, and rare-concept sensitivity analysis.
+Version: 1.0.1
 
-This repository contains the code, figures, source-data tables, and reproducibility materials associated with the HistoSet study.
+HistoSet is an uncertainty-aware, concept-based framework for prostate cancer histopathology segmentation and Gleason-pattern evaluation. The project combines hierarchical morphologic concepts, soft-label supervision, direct Gleason-pattern prediction, conformal concept sets, and rare-concept sensitivity analysis.
 
 Repository: https://github.com/dfyu67770-hue/HistoSet
 
+## Paper
+
+The manuscript and figure package are distributed in `manuscript_package/`. A Zenodo DOI will be added after archival deposition.
+
+## System Requirements
+
+The project was created with Python 3.10 or newer. Core utilities require only NumPy and pandas. Full model training and figure regeneration require the additional packages listed in `pyproject.toml` and access to the public histopathology datasets described below.
+
+The code was prepared and tested on Windows with the bundled Codex Python runtime. GPU acceleration is recommended for full segmentation model training.
+
+## Use
+
+### General set up
+
+Create and activate a virtual environment, then install the package:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -e .
+```
+
+On Windows PowerShell:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -e .
+```
+
+Set the following environment variables before running the full workflow:
+
+- `HISTOSET_DATASET_LOCATION`: directory containing third-party image and annotation resources.
+- `HISTOSET_EXPERIMENT_LOCATION`: directory for checkpoints, logs, metrics, and derived tensors.
+
+An example environment file is provided in `.env.example`.
+
+### Data set up
+
+Third-party histopathology images and masks are not redistributed in this repository. Users should obtain the source data from their original public resources and place them under `HISTOSET_DATASET_LOCATION`.
+
+The expected local data structure is:
+
+```text
+[HISTOSET_DATASET_LOCATION]/
+  HistoSet/
+    tissuearray/
+      images/
+      masks/
+      annotations/
+    gleason2019/
+      images/
+      maps/
+    harvard_ocymp/
+      images/
+      annotations/
+```
+
+Run the setup entry point to validate paths and write a manifest:
+
+```bash
+python scripts/setup.py --data-root "[HISTOSET_DATASET_LOCATION]/HistoSet" --output manifest/histoset_manifest.csv
+```
+
+### Image predictions
+
+Run HistoSet prediction on one image or an image directory:
+
+```bash
+python scripts/run_histoset.py --images "/path/to/images" --checkpoint "/path/to/checkpoint" --save-path "/path/to/output"
+```
+
+The prediction output includes concept probabilities, direct Gleason-pattern probabilities, conformal concept sets, and quality-control summaries when calibration files are provided.
+
+### Paper visualizations
+
+The released source-data CSV files can be used to regenerate the main and supplementary figures:
+
+```bash
+python scripts/evaluate_paper_results.py --source-data manuscript_package/source_data --figure-dir manuscript_package/figures
+```
+
+### Model training
+
+Training uses the configuration files in `configs/`. Example calls:
+
+```bash
+python scripts/train.py --config configs/config.yaml --experiment HistoSet/default
+python scripts/test.py --config configs/config.yaml --checkpoint "/path/to/checkpoint"
+```
+
+The default configuration exposes data loading, augmentation, model, loss, optimization, trainer, and conformal calibration settings.
+
 ## Repository Contents
 
-- `manuscript_package/`: study materials with main figures, supplementary figures, source data, supplementary tables, manuscript document, cover letter, and checksums.
-- `scripts/`: reproducibility notes and code-entry documentation.
+- `configs/`: configuration files for data loading, augmentation, model, losses, optimization, trainer, and conformal calibration.
+- `histoset/`: author-developed HistoSet utility package.
+- `scripts/`: setup, training, testing, prediction, and figure-regeneration entry points.
+- `tests/`: unit tests for hierarchy, metrics, and conformal utilities.
+- `manuscript_package/`: figure files, source-data tables, supplementary tables, manuscript document, and checksums.
 - `docs/`: release workflow and data-use notes.
 - `LICENSE`: MIT software licence for author-developed HistoSet code.
 - `CITATION.cff`: citation metadata for GitHub and Zenodo.
 - `.zenodo.json`: Zenodo metadata template for archived releases.
+- `.env.example`: local environment-variable template.
 
 ## Data Boundary
 
@@ -21,7 +118,7 @@ This repository does not redistribute third-party source histopathology images o
 
 ## Release
 
-The first GitHub release is `v1.0.0`: https://github.com/dfyu67770-hue/HistoSet/releases/tag/v1.0.0. After Zenodo archiving is completed, the Zenodo DOI should be added to the manuscript Data and Code Availability statement and to this README.
+The current GitHub release is `v1.0.1`: https://github.com/dfyu67770-hue/HistoSet/releases/tag/v1.0.1. After Zenodo archiving is completed, the Zenodo DOI should be added to the Data and Code Availability statement, `CITATION.cff`, and this README.
 
 ## Licence
 

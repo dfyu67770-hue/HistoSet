@@ -1,0 +1,12 @@
+defaults:
+  - dataset: default
+  - dataloader: default
+  - augmentations: default
+  - model: histoset_unet
+  - loss_functions: histoset_multilevel
+  - optimization: default
+  - trainer: default
+  - conformal: default
+
+seed: 409
+experiment_name: HistoSet/default
