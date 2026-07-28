@@ -6,7 +6,7 @@ param(
     [string]$ZenodoDoi,
 
     [Parameter(Mandatory = $false)]
-    [string]$Version = "1.1.1"
+    [string]$Version = "1.1.2"
 )
 
 $ErrorActionPreference = "Stop"

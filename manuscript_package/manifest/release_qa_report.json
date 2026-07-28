@@ -132,46 +132,6 @@
       "bytes": 2005414
     },
     {
-      "figure": "figure5_histoset_hierarchy_model_results",
-      "format": "pdf",
-      "bytes": 52793
-    },
-    {
-      "figure": "figure5_histoset_hierarchy_model_results",
-      "format": "png",
-      "bytes": 461960
-    },
-    {
-      "figure": "figure5_histoset_hierarchy_model_results",
-      "format": "svg",
-      "bytes": 76707
-    },
-    {
-      "figure": "figure5_histoset_hierarchy_model_results",
-      "format": "tiff",
-      "bytes": 1498860
-    },
-    {
-      "figure": "figure3_histoset_image_level_agreement",
-      "format": "pdf",
-      "bytes": 121630
-    },
-    {
-      "figure": "figure3_histoset_image_level_agreement",
-      "format": "png",
-      "bytes": 718808
-    },
-    {
-      "figure": "figure3_histoset_image_level_agreement",
-      "format": "svg",
-      "bytes": 173878
-    },
-    {
-      "figure": "figure3_histoset_image_level_agreement",
-      "format": "tiff",
-      "bytes": 3471002
-    },
-    {
       "figure": "figure4_histoset_pixel_level_agreement",
       "format": "pdf",
       "bytes": 43635
@@ -190,46 +150,6 @@
       "figure": "figure4_histoset_pixel_level_agreement",
       "format": "tiff",
       "bytes": 1069324
-    },
-    {
-      "figure": "figure8_histoset_explanatory_ontology",
-      "format": "pdf",
-      "bytes": 49069
-    },
-    {
-      "figure": "figure8_histoset_explanatory_ontology",
-      "format": "png",
-      "bytes": 658982
-    },
-    {
-      "figure": "figure8_histoset_explanatory_ontology",
-      "format": "svg",
-      "bytes": 48057
-    },
-    {
-      "figure": "figure8_histoset_explanatory_ontology",
-      "format": "tiff",
-      "bytes": 1433828
-    },
-    {
-      "figure": "figure6_histoset_prediction_annotation_comparison",
-      "format": "pdf",
-      "bytes": 56829
-    },
-    {
-      "figure": "figure6_histoset_prediction_annotation_comparison",
-      "format": "png",
-      "bytes": 836558
-    },
-    {
-      "figure": "figure6_histoset_prediction_annotation_comparison",
-      "format": "svg",
-      "bytes": 81174
-    },
-    {
-      "figure": "figure6_histoset_prediction_annotation_comparison",
-      "format": "tiff",
-      "bytes": 3301324
     },
     {
       "figure": "figure1_fullscale_histoset_overview",
@@ -252,44 +172,84 @@
       "bytes": 10282856
     },
     {
-      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "figure": "figure8_histoset_explanatory_ontology",
       "format": "pdf",
-      "bytes": 46940
+      "bytes": 49069
     },
     {
-      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "figure": "figure8_histoset_explanatory_ontology",
       "format": "png",
-      "bytes": 303253
+      "bytes": 658982
     },
     {
-      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "figure": "figure8_histoset_explanatory_ontology",
       "format": "svg",
-      "bytes": 33158
+      "bytes": 48057
     },
     {
-      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "figure": "figure8_histoset_explanatory_ontology",
       "format": "tiff",
-      "bytes": 485846
+      "bytes": 1433828
     },
     {
-      "figure": "Supplementary_Fig_S6_seed_trajectory",
+      "figure": "figure5_histoset_hierarchy_model_results",
       "format": "pdf",
-      "bytes": 43669
+      "bytes": 52793
     },
     {
-      "figure": "Supplementary_Fig_S6_seed_trajectory",
+      "figure": "figure5_histoset_hierarchy_model_results",
       "format": "png",
-      "bytes": 324279
+      "bytes": 461960
     },
     {
-      "figure": "Supplementary_Fig_S6_seed_trajectory",
+      "figure": "figure5_histoset_hierarchy_model_results",
       "format": "svg",
-      "bytes": 19498
+      "bytes": 76707
     },
     {
-      "figure": "Supplementary_Fig_S6_seed_trajectory",
+      "figure": "figure5_histoset_hierarchy_model_results",
       "format": "tiff",
-      "bytes": 483458
+      "bytes": 1498860
+    },
+    {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "pdf",
+      "bytes": 56829
+    },
+    {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "png",
+      "bytes": 836558
+    },
+    {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "svg",
+      "bytes": 81174
+    },
+    {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "tiff",
+      "bytes": 3301324
+    },
+    {
+      "figure": "figure3_histoset_image_level_agreement",
+      "format": "pdf",
+      "bytes": 121630
+    },
+    {
+      "figure": "figure3_histoset_image_level_agreement",
+      "format": "png",
+      "bytes": 718808
+    },
+    {
+      "figure": "figure3_histoset_image_level_agreement",
+      "format": "svg",
+      "bytes": 173878
+    },
+    {
+      "figure": "figure3_histoset_image_level_agreement",
+      "format": "tiff",
+      "bytes": 3471002
     },
     {
       "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
@@ -332,6 +292,66 @@
       "bytes": 241858
     },
     {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "pdf",
+      "bytes": 135326
+    },
+    {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "png",
+      "bytes": 115838
+    },
+    {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "svg",
+      "bytes": 4473
+    },
+    {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "tiff",
+      "bytes": 245956
+    },
+    {
+      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "format": "pdf",
+      "bytes": 47729
+    },
+    {
+      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "format": "png",
+      "bytes": 214178
+    },
+    {
+      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "format": "svg",
+      "bytes": 32901
+    },
+    {
+      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "format": "tiff",
+      "bytes": 43567190
+    },
+    {
+      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "format": "pdf",
+      "bytes": 44209
+    },
+    {
+      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "format": "png",
+      "bytes": 175331
+    },
+    {
+      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "format": "svg",
+      "bytes": 16514
+    },
+    {
+      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "format": "tiff",
+      "bytes": 490696
+    },
+    {
       "figure": "Supplementary_Fig_S9_case_selection",
       "format": "pdf",
       "bytes": 49549
@@ -372,64 +392,24 @@
       "bytes": 238510
     },
     {
-      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "figure": "Supplementary_Fig_S6_seed_trajectory",
       "format": "pdf",
-      "bytes": 44209
+      "bytes": 43669
     },
     {
-      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "figure": "Supplementary_Fig_S6_seed_trajectory",
       "format": "png",
-      "bytes": 175331
+      "bytes": 324279
     },
     {
-      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "figure": "Supplementary_Fig_S6_seed_trajectory",
       "format": "svg",
-      "bytes": 16514
+      "bytes": 19498
     },
     {
-      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "figure": "Supplementary_Fig_S6_seed_trajectory",
       "format": "tiff",
-      "bytes": 490696
-    },
-    {
-      "figure": "Supplementary_Fig_S7_replicate_stability",
-      "format": "pdf",
-      "bytes": 40245
-    },
-    {
-      "figure": "Supplementary_Fig_S7_replicate_stability",
-      "format": "png",
-      "bytes": 176037
-    },
-    {
-      "figure": "Supplementary_Fig_S7_replicate_stability",
-      "format": "svg",
-      "bytes": 12866
-    },
-    {
-      "figure": "Supplementary_Fig_S7_replicate_stability",
-      "format": "tiff",
-      "bytes": 420216
-    },
-    {
-      "figure": "Supplementary_Fig_S3_split_scope",
-      "format": "pdf",
-      "bytes": 135326
-    },
-    {
-      "figure": "Supplementary_Fig_S3_split_scope",
-      "format": "png",
-      "bytes": 115838
-    },
-    {
-      "figure": "Supplementary_Fig_S3_split_scope",
-      "format": "svg",
-      "bytes": 4473
-    },
-    {
-      "figure": "Supplementary_Fig_S3_split_scope",
-      "format": "tiff",
-      "bytes": 245956
+      "bytes": 483458
     },
     {
       "figure": "Supplementary_Fig_S4_pixel_composition",
@@ -452,6 +432,26 @@
       "bytes": 290010
     },
     {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "pdf",
+      "bytes": 46940
+    },
+    {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "png",
+      "bytes": 303253
+    },
+    {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "svg",
+      "bytes": 33158
+    },
+    {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "tiff",
+      "bytes": 485846
+    },
+    {
       "figure": "Supplementary_Fig_S10_source_package",
       "format": "pdf",
       "bytes": 140645
@@ -472,24 +472,24 @@
       "bytes": 239186
     },
     {
-      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "figure": "Supplementary_Fig_S7_replicate_stability",
       "format": "pdf",
-      "bytes": 47729
+      "bytes": 40245
     },
     {
-      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "figure": "Supplementary_Fig_S7_replicate_stability",
       "format": "png",
-      "bytes": 214178
+      "bytes": 176037
     },
     {
-      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "figure": "Supplementary_Fig_S7_replicate_stability",
       "format": "svg",
-      "bytes": 32901
+      "bytes": 12866
     },
     {
-      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "figure": "Supplementary_Fig_S7_replicate_stability",
       "format": "tiff",
-      "bytes": 43567190
+      "bytes": 420216
     }
   ],
   "supplementary_table_records": [

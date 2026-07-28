@@ -1,5 +1,11 @@
 # Release Notes
 
+## v1.1.2
+
+DOI metadata workflow release.
+
+- Updates the DOI insertion workflow for README, `CITATION.cff`, `.zenodo.json`, and manuscript Data and Code Availability text.
+
 ## v1.1.1
 
 Reproducibility hardening release.

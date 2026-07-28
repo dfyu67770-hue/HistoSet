@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.2
+
+- Updated the archived DOI metadata workflow to cover README, citation metadata, Zenodo metadata, and manuscript availability text.
+
 ## 1.1.1
 
 - Added reproducibility environment files for core, development, and deep-learning workflows.
