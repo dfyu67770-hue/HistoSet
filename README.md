@@ -1,4 +1,4 @@
-# HistoSet
+﻿# HistoSet
 
 Version: 1.1.3
 
@@ -8,7 +8,7 @@ Repository: https://github.com/dfyu67770-hue/HistoSet
 
 ## Paper
 
-The manuscript and figure package are distributed in `manuscript_package/`. A Zenodo DOI will be added after archival deposition.
+The manuscript and figure package are distributed in `manuscript_package/`. Archived software release: https://doi.org/10.5281/zenodo.21644724.
 
 ## System Requirements
 
@@ -144,3 +144,4 @@ The current GitHub release target is `v1.1.3`: https://github.com/dfyu67770-hue/
 ## Licence
 
 Author-developed HistoSet code and documentation are released under the MIT License. Third-party datasets remain under their source access terms and licences.
+
