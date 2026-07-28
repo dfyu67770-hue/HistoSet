@@ -1,0 +1,7 @@
+# CPU environment used for public workflow smoke tests.
+# Regenerate in a clean environment with:
+#   python -m pip freeze > requirements-lock.cpu.txt
+matplotlib==3.11.1
+numpy==2.5.1
+pandas==3.0.3
+torch==2.13.0

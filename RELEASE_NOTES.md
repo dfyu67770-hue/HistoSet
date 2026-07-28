@@ -1,5 +1,14 @@
 # Release Notes
 
+## v1.1.1
+
+Reproducibility hardening release.
+
+- Adds `requirements.txt`, `requirements-dev.txt`, `requirements-dl.txt`, `requirements-lock.cpu.txt`, and `environment.yml`.
+- Extends release QA to validate main figures, supplementary figures, source-data CSVs, supplementary tables, and public text hygiene.
+- Adds tests for release QA behavior.
+- Updates the release workflow with compile, QA, and test commands.
+
 ## v1.1.0
 
 Training-pipeline release.

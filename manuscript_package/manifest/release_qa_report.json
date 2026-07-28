@@ -1,0 +1,553 @@
+{
+  "source_data_csv": 17,
+  "figure_files": 80,
+  "supplementary_tables": 14,
+  "text_hygiene_findings": [],
+  "csv_records": [
+    {
+      "rows": 1,
+      "columns": 18,
+      "file": "figure1_histoset_overview_source.csv"
+    },
+    {
+      "rows": 41,
+      "columns": 6,
+      "file": "figure2_histoset_class_distribution_counts.csv"
+    },
+    {
+      "rows": 2,
+      "columns": 3,
+      "file": "figure3_histoset_case_examples.csv"
+    },
+    {
+      "rows": 3,
+      "columns": 10,
+      "file": "figure3_histoset_explanation_agreement.csv"
+    },
+    {
+      "rows": 3,
+      "columns": 4,
+      "file": "figure3_histoset_grade_pattern_matrix.csv"
+    },
+    {
+      "rows": 3,
+      "columns": 4,
+      "file": "figure3_histoset_pattern_agreement.csv"
+    },
+    {
+      "rows": 10,
+      "columns": 9,
+      "file": "figure4_histoset_pixel_agreement.csv"
+    },
+    {
+      "rows": 10,
+      "columns": 5,
+      "file": "figure4_histoset_pixel_burden.csv"
+    },
+    {
+      "rows": 68,
+      "columns": 7,
+      "file": "figure5_histoset_model_results_long.csv"
+    },
+    {
+      "rows": 20,
+      "columns": 8,
+      "file": "figure5_histoset_model_results_summary.csv"
+    },
+    {
+      "rows": 10,
+      "columns": 6,
+      "file": "figure6_histoset_concept_distribution.csv"
+    },
+    {
+      "rows": 10,
+      "columns": 11,
+      "file": "figure6_histoset_concept_set_inclusion_percent.csv"
+    },
+    {
+      "rows": 4,
+      "columns": 5,
+      "file": "figure6_histoset_direct_pattern_confusion_percent.csv"
+    },
+    {
+      "rows": 59,
+      "columns": 10,
+      "file": "figure7_histoset_case_candidates.csv"
+    },
+    {
+      "rows": 9,
+      "columns": 5,
+      "file": "figure7_histoset_case_plate_source.csv"
+    },
+    {
+      "rows": 29,
+      "columns": 7,
+      "file": "figure8_histoset_explanatory_ontology_mapping.csv"
+    },
+    {
+      "rows": 4,
+      "columns": 6,
+      "file": "supplementary_figure_s10_source_package_completeness.csv"
+    }
+  ],
+  "figure_records": [
+    {
+      "figure": "figure2_histoset_class_distribution",
+      "format": "pdf",
+      "bytes": 51830
+    },
+    {
+      "figure": "figure2_histoset_class_distribution",
+      "format": "png",
+      "bytes": 834202
+    },
+    {
+      "figure": "figure2_histoset_class_distribution",
+      "format": "svg",
+      "bytes": 58989
+    },
+    {
+      "figure": "figure2_histoset_class_distribution",
+      "format": "tiff",
+      "bytes": 2005414
+    },
+    {
+      "figure": "figure8_histoset_explanatory_ontology",
+      "format": "pdf",
+      "bytes": 49069
+    },
+    {
+      "figure": "figure8_histoset_explanatory_ontology",
+      "format": "png",
+      "bytes": 658982
+    },
+    {
+      "figure": "figure8_histoset_explanatory_ontology",
+      "format": "svg",
+      "bytes": 48057
+    },
+    {
+      "figure": "figure8_histoset_explanatory_ontology",
+      "format": "tiff",
+      "bytes": 1433828
+    },
+    {
+      "figure": "figure4_histoset_pixel_level_agreement",
+      "format": "pdf",
+      "bytes": 43635
+    },
+    {
+      "figure": "figure4_histoset_pixel_level_agreement",
+      "format": "png",
+      "bytes": 348908
+    },
+    {
+      "figure": "figure4_histoset_pixel_level_agreement",
+      "format": "svg",
+      "bytes": 24555
+    },
+    {
+      "figure": "figure4_histoset_pixel_level_agreement",
+      "format": "tiff",
+      "bytes": 1069324
+    },
+    {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "pdf",
+      "bytes": 56829
+    },
+    {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "png",
+      "bytes": 836558
+    },
+    {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "svg",
+      "bytes": 81174
+    },
+    {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "tiff",
+      "bytes": 3301324
+    },
+    {
+      "figure": "figure7_histoset_case_plate",
+      "format": "pdf",
+      "bytes": 394760
+    },
+    {
+      "figure": "figure7_histoset_case_plate",
+      "format": "png",
+      "bytes": 8601529
+    },
+    {
+      "figure": "figure7_histoset_case_plate",
+      "format": "svg",
+      "bytes": 633767
+    },
+    {
+      "figure": "figure7_histoset_case_plate",
+      "format": "tiff",
+      "bytes": 20088270
+    },
+    {
+      "figure": "figure5_histoset_hierarchy_model_results",
+      "format": "pdf",
+      "bytes": 52793
+    },
+    {
+      "figure": "figure5_histoset_hierarchy_model_results",
+      "format": "png",
+      "bytes": 461960
+    },
+    {
+      "figure": "figure5_histoset_hierarchy_model_results",
+      "format": "svg",
+      "bytes": 76707
+    },
+    {
+      "figure": "figure5_histoset_hierarchy_model_results",
+      "format": "tiff",
+      "bytes": 1498860
+    },
+    {
+      "figure": "figure1_fullscale_histoset_overview",
+      "format": "pdf",
+      "bytes": 284681
+    },
+    {
+      "figure": "figure1_fullscale_histoset_overview",
+      "format": "png",
+      "bytes": 1800255
+    },
+    {
+      "figure": "figure1_fullscale_histoset_overview",
+      "format": "svg",
+      "bytes": 388079
+    },
+    {
+      "figure": "figure1_fullscale_histoset_overview",
+      "format": "tiff",
+      "bytes": 10282856
+    },
+    {
+      "figure": "figure3_histoset_image_level_agreement",
+      "format": "pdf",
+      "bytes": 121630
+    },
+    {
+      "figure": "figure3_histoset_image_level_agreement",
+      "format": "png",
+      "bytes": 718808
+    },
+    {
+      "figure": "figure3_histoset_image_level_agreement",
+      "format": "svg",
+      "bytes": 173878
+    },
+    {
+      "figure": "figure3_histoset_image_level_agreement",
+      "format": "tiff",
+      "bytes": 3471002
+    },
+    {
+      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "format": "pdf",
+      "bytes": 122776
+    },
+    {
+      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "format": "png",
+      "bytes": 98708
+    },
+    {
+      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "format": "svg",
+      "bytes": 2936
+    },
+    {
+      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "format": "tiff",
+      "bytes": 238510
+    },
+    {
+      "figure": "Supplementary_Fig_S1_data_inventory",
+      "format": "pdf",
+      "bytes": 114476
+    },
+    {
+      "figure": "Supplementary_Fig_S1_data_inventory",
+      "format": "png",
+      "bytes": 103364
+    },
+    {
+      "figure": "Supplementary_Fig_S1_data_inventory",
+      "format": "svg",
+      "bytes": 2746
+    },
+    {
+      "figure": "Supplementary_Fig_S1_data_inventory",
+      "format": "tiff",
+      "bytes": 241858
+    },
+    {
+      "figure": "Supplementary_Fig_S9_case_selection",
+      "format": "pdf",
+      "bytes": 49549
+    },
+    {
+      "figure": "Supplementary_Fig_S9_case_selection",
+      "format": "png",
+      "bytes": 362075
+    },
+    {
+      "figure": "Supplementary_Fig_S9_case_selection",
+      "format": "svg",
+      "bytes": 32518
+    },
+    {
+      "figure": "Supplementary_Fig_S9_case_selection",
+      "format": "tiff",
+      "bytes": 610420
+    },
+    {
+      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
+      "format": "pdf",
+      "bytes": 45090
+    },
+    {
+      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
+      "format": "png",
+      "bytes": 345309
+    },
+    {
+      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
+      "format": "svg",
+      "bytes": 29840
+    },
+    {
+      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
+      "format": "tiff",
+      "bytes": 508566
+    },
+    {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "pdf",
+      "bytes": 46940
+    },
+    {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "png",
+      "bytes": 303253
+    },
+    {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "svg",
+      "bytes": 33158
+    },
+    {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "tiff",
+      "bytes": 485846
+    },
+    {
+      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "format": "pdf",
+      "bytes": 47729
+    },
+    {
+      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "format": "png",
+      "bytes": 214178
+    },
+    {
+      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "format": "svg",
+      "bytes": 32901
+    },
+    {
+      "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
+      "format": "tiff",
+      "bytes": 43567190
+    },
+    {
+      "figure": "Supplementary_Fig_S4_pixel_composition",
+      "format": "pdf",
+      "bytes": 138905
+    },
+    {
+      "figure": "Supplementary_Fig_S4_pixel_composition",
+      "format": "png",
+      "bytes": 127233
+    },
+    {
+      "figure": "Supplementary_Fig_S4_pixel_composition",
+      "format": "svg",
+      "bytes": 3816
+    },
+    {
+      "figure": "Supplementary_Fig_S4_pixel_composition",
+      "format": "tiff",
+      "bytes": 290010
+    },
+    {
+      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "format": "pdf",
+      "bytes": 44209
+    },
+    {
+      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "format": "png",
+      "bytes": 175331
+    },
+    {
+      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "format": "svg",
+      "bytes": 16514
+    },
+    {
+      "figure": "Supplementary_Fig_S2_label_harmonization",
+      "format": "tiff",
+      "bytes": 490696
+    },
+    {
+      "figure": "Supplementary_Fig_S6_seed_trajectory",
+      "format": "pdf",
+      "bytes": 43669
+    },
+    {
+      "figure": "Supplementary_Fig_S6_seed_trajectory",
+      "format": "png",
+      "bytes": 324279
+    },
+    {
+      "figure": "Supplementary_Fig_S6_seed_trajectory",
+      "format": "svg",
+      "bytes": 19498
+    },
+    {
+      "figure": "Supplementary_Fig_S6_seed_trajectory",
+      "format": "tiff",
+      "bytes": 483458
+    },
+    {
+      "figure": "Supplementary_Fig_S7_replicate_stability",
+      "format": "pdf",
+      "bytes": 40245
+    },
+    {
+      "figure": "Supplementary_Fig_S7_replicate_stability",
+      "format": "png",
+      "bytes": 176037
+    },
+    {
+      "figure": "Supplementary_Fig_S7_replicate_stability",
+      "format": "svg",
+      "bytes": 12866
+    },
+    {
+      "figure": "Supplementary_Fig_S7_replicate_stability",
+      "format": "tiff",
+      "bytes": 420216
+    },
+    {
+      "figure": "Supplementary_Fig_S10_source_package",
+      "format": "pdf",
+      "bytes": 140645
+    },
+    {
+      "figure": "Supplementary_Fig_S10_source_package",
+      "format": "png",
+      "bytes": 136815
+    },
+    {
+      "figure": "Supplementary_Fig_S10_source_package",
+      "format": "svg",
+      "bytes": 5547
+    },
+    {
+      "figure": "Supplementary_Fig_S10_source_package",
+      "format": "tiff",
+      "bytes": 239186
+    },
+    {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "pdf",
+      "bytes": 135326
+    },
+    {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "png",
+      "bytes": 115838
+    },
+    {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "svg",
+      "bytes": 4473
+    },
+    {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "tiff",
+      "bytes": 245956
+    }
+  ],
+  "supplementary_table_records": [
+    {
+      "file": "csv\\SUPPLEMENTARY_TABLE_INDEX.csv",
+      "bytes": 1667
+    },
+    {
+      "file": "csv\\Table_S10_data_code_availability_map.csv",
+      "bytes": 821
+    },
+    {
+      "file": "csv\\Table_S1_data_inventory.csv",
+      "bytes": 3599
+    },
+    {
+      "file": "csv\\Table_S2_ontology_mapping.csv",
+      "bytes": 6056
+    },
+    {
+      "file": "csv\\Table_S3_fullscale_split_scope.csv",
+      "bytes": 360
+    },
+    {
+      "file": "csv\\Table_S4_data_cleanliness.csv",
+      "bytes": 261
+    },
+    {
+      "file": "csv\\Table_S5_model_performance.csv",
+      "bytes": 1850
+    },
+    {
+      "file": "csv\\Table_S6_conformal_coverage.csv",
+      "bytes": 1611
+    },
+    {
+      "file": "csv\\Table_S6b_alpha_sensitivity_seed409.csv",
+      "bytes": 6349
+    },
+    {
+      "file": "csv\\Table_S7_dataset_pattern_accuracy.csv",
+      "bytes": 929
+    },
+    {
+      "file": "csv\\Table_S8_representative_case_candidates.csv",
+      "bytes": 9882
+    },
+    {
+      "file": "csv\\Table_S9_hyperparameter_compute_sources.csv",
+      "bytes": 682
+    },
+    {
+      "file": "csv\\Table_S9b_fullscale_hyperparameter_compute_values.csv",
+      "bytes": 1414
+    },
+    {
+      "file": "HistoSet_supplementary_tables_publication.xlsx",
+      "bytes": 30980
+    }
+  ]
+}

@@ -10,4 +10,4 @@ The manuscript package includes eight main figures and twelve supplementary figu
 Scientific scope notes:
 
 - Representative vote-support panels summarize available annotation-vote support and do not infer unavailable independent observer-identity masks.
-- Source histopathology images and masks are not redistributed in this repository and must be obtained from the original data sources under their respective access conditions.
+- Source histopathology images and masks are not redistributed in this repository and must be obtained from the cited data sources under their respective access conditions.

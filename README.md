@@ -1,6 +1,6 @@
 # HistoSet
 
-Version: 1.1.0
+Version: 1.1.1
 
 HistoSet is an uncertainty-aware, concept-based framework for prostate cancer histopathology segmentation and Gleason-pattern evaluation. The project combines hierarchical morphologic concepts, soft-label supervision, direct Gleason-pattern prediction, conformal concept sets, and rare-concept sensitivity analysis.
 
@@ -28,6 +28,20 @@ source .venv/bin/activate
 pip install -e .
 ```
 
+Alternative environment files are included for reproducibility:
+
+```bash
+pip install -r requirements-dev.txt
+pip install -r requirements-dl.txt
+```
+
+Conda users can start from:
+
+```bash
+conda env create -f environment.yml
+conda activate histoset
+```
+
 On Windows PowerShell:
 
 ```powershell
@@ -45,7 +59,7 @@ An example environment file is provided in `.env.example`.
 
 ### Data set up
 
-Third-party histopathology images and masks are not redistributed in this repository. Users should obtain the source data from their original public resources and place them under `HISTOSET_DATASET_LOCATION`.
+Third-party histopathology images and masks are not redistributed in this repository. Users should obtain the source data from the cited public resources and place them under `HISTOSET_DATASET_LOCATION`.
 
 The expected local data structure is:
 
@@ -88,7 +102,11 @@ The prediction output includes explanation probabilities, explanation-derived Gl
 The released source-data CSV files and figure files can be verified with:
 
 ```bash
-python scripts/evaluate_paper_results.py --source-data manuscript_package/source_data --figure-dir manuscript_package/figures
+python scripts/evaluate_paper_results.py \
+  --source-data manuscript_package/source_data \
+  --figure-dir manuscript_package/figures \
+  --supplementary-table-dir manuscript_package/supplementary_tables \
+  --repo-root .
 ```
 
 ### Model training
@@ -117,12 +135,12 @@ The default configuration files expose the data loading, augmentation, model, lo
 
 ## Data Boundary
 
-This repository does not redistribute third-party source histopathology images or masks. Users should obtain source images and annotations from the original public resources under their respective access conditions. The included source-data CSV files support figure-level verification and manuscript review.
+This repository does not redistribute third-party source histopathology images or masks. Users should obtain source images and annotations from the cited public resources under their respective access conditions. The included source-data CSV files support figure-level verification and manuscript review.
 
 ## Release
 
-The current GitHub release is `v1.1.0`: https://github.com/dfyu67770-hue/HistoSet/releases/tag/v1.1.0. After Zenodo archiving is completed, the Zenodo DOI should be added to the Data and Code Availability statement, `CITATION.cff`, and this README.
+The current GitHub release target is `v1.1.1`: https://github.com/dfyu67770-hue/HistoSet/releases/tag/v1.1.1. After Zenodo archiving is completed, the Zenodo DOI should be added to the Data and Code Availability statement, `CITATION.cff`, and this README.
 
 ## Licence
 
-Author-developed HistoSet code and documentation are released under the MIT License. Third-party datasets remain under their original access terms and licences.
+Author-developed HistoSet code and documentation are released under the MIT License. Third-party datasets remain under their source access terms and licences.

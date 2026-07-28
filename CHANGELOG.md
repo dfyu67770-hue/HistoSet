@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.1
+
+- Added reproducibility environment files for core, development, and deep-learning workflows.
+- Added release-package QA that validates source data, figure formats, supplementary tables, and public text hygiene.
+- Added release QA tests.
+- Updated release workflow documentation with verification commands.
+
 ## 1.1.0
 
 - Added prepared NPZ dataset classes for full-image evaluation and balanced patch training.
