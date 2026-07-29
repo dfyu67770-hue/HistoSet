@@ -92,66 +92,6 @@
   ],
   "figure_records": [
     {
-      "figure": "figure4_histoset_pixel_level_agreement",
-      "format": "pdf",
-      "bytes": 43635
-    },
-    {
-      "figure": "figure4_histoset_pixel_level_agreement",
-      "format": "png",
-      "bytes": 348908
-    },
-    {
-      "figure": "figure4_histoset_pixel_level_agreement",
-      "format": "svg",
-      "bytes": 24555
-    },
-    {
-      "figure": "figure4_histoset_pixel_level_agreement",
-      "format": "tiff",
-      "bytes": 1069324
-    },
-    {
-      "figure": "figure6_histoset_prediction_annotation_comparison",
-      "format": "pdf",
-      "bytes": 56829
-    },
-    {
-      "figure": "figure6_histoset_prediction_annotation_comparison",
-      "format": "png",
-      "bytes": 836558
-    },
-    {
-      "figure": "figure6_histoset_prediction_annotation_comparison",
-      "format": "svg",
-      "bytes": 81174
-    },
-    {
-      "figure": "figure6_histoset_prediction_annotation_comparison",
-      "format": "tiff",
-      "bytes": 3301324
-    },
-    {
-      "figure": "figure8_histoset_explanatory_ontology",
-      "format": "pdf",
-      "bytes": 49069
-    },
-    {
-      "figure": "figure8_histoset_explanatory_ontology",
-      "format": "png",
-      "bytes": 658982
-    },
-    {
-      "figure": "figure8_histoset_explanatory_ontology",
-      "format": "svg",
-      "bytes": 48057
-    },
-    {
-      "figure": "figure8_histoset_explanatory_ontology",
-      "format": "tiff",
-      "bytes": 1433828
-    },
-    {
       "figure": "figure7_histoset_case_plate",
       "format": "pdf",
       "bytes": 394760
@@ -212,6 +152,26 @@
       "bytes": 2005414
     },
     {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "pdf",
+      "bytes": 56829
+    },
+    {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "png",
+      "bytes": 836558
+    },
+    {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "svg",
+      "bytes": 81174
+    },
+    {
+      "figure": "figure6_histoset_prediction_annotation_comparison",
+      "format": "tiff",
+      "bytes": 3301324
+    },
+    {
       "figure": "figure1_fullscale_histoset_overview",
       "format": "pdf",
       "bytes": 284681
@@ -230,6 +190,26 @@
       "figure": "figure1_fullscale_histoset_overview",
       "format": "tiff",
       "bytes": 10282856
+    },
+    {
+      "figure": "figure8_histoset_explanatory_ontology",
+      "format": "pdf",
+      "bytes": 49069
+    },
+    {
+      "figure": "figure8_histoset_explanatory_ontology",
+      "format": "png",
+      "bytes": 658982
+    },
+    {
+      "figure": "figure8_histoset_explanatory_ontology",
+      "format": "svg",
+      "bytes": 48057
+    },
+    {
+      "figure": "figure8_histoset_explanatory_ontology",
+      "format": "tiff",
+      "bytes": 1433828
     },
     {
       "figure": "figure5_histoset_hierarchy_model_results",
@@ -252,124 +232,24 @@
       "bytes": 1498860
     },
     {
-      "figure": "Supplementary_Fig_S9_case_selection",
+      "figure": "figure4_histoset_pixel_level_agreement",
       "format": "pdf",
-      "bytes": 49549
+      "bytes": 43635
     },
     {
-      "figure": "Supplementary_Fig_S9_case_selection",
+      "figure": "figure4_histoset_pixel_level_agreement",
       "format": "png",
-      "bytes": 362075
+      "bytes": 348908
     },
     {
-      "figure": "Supplementary_Fig_S9_case_selection",
+      "figure": "figure4_histoset_pixel_level_agreement",
       "format": "svg",
-      "bytes": 32518
+      "bytes": 24555
     },
     {
-      "figure": "Supplementary_Fig_S9_case_selection",
+      "figure": "figure4_histoset_pixel_level_agreement",
       "format": "tiff",
-      "bytes": 610420
-    },
-    {
-      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
-      "format": "pdf",
-      "bytes": 45090
-    },
-    {
-      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
-      "format": "png",
-      "bytes": 345309
-    },
-    {
-      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
-      "format": "svg",
-      "bytes": 29840
-    },
-    {
-      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
-      "format": "tiff",
-      "bytes": 508566
-    },
-    {
-      "figure": "Supplementary_Fig_S8_conformal_coverage",
-      "format": "pdf",
-      "bytes": 46940
-    },
-    {
-      "figure": "Supplementary_Fig_S8_conformal_coverage",
-      "format": "png",
-      "bytes": 303253
-    },
-    {
-      "figure": "Supplementary_Fig_S8_conformal_coverage",
-      "format": "svg",
-      "bytes": 33158
-    },
-    {
-      "figure": "Supplementary_Fig_S8_conformal_coverage",
-      "format": "tiff",
-      "bytes": 485846
-    },
-    {
-      "figure": "Supplementary_Fig_S7_replicate_stability",
-      "format": "pdf",
-      "bytes": 40245
-    },
-    {
-      "figure": "Supplementary_Fig_S7_replicate_stability",
-      "format": "png",
-      "bytes": 176037
-    },
-    {
-      "figure": "Supplementary_Fig_S7_replicate_stability",
-      "format": "svg",
-      "bytes": 12866
-    },
-    {
-      "figure": "Supplementary_Fig_S7_replicate_stability",
-      "format": "tiff",
-      "bytes": 420216
-    },
-    {
-      "figure": "Supplementary_Fig_S1_data_inventory",
-      "format": "pdf",
-      "bytes": 114476
-    },
-    {
-      "figure": "Supplementary_Fig_S1_data_inventory",
-      "format": "png",
-      "bytes": 103364
-    },
-    {
-      "figure": "Supplementary_Fig_S1_data_inventory",
-      "format": "svg",
-      "bytes": 2746
-    },
-    {
-      "figure": "Supplementary_Fig_S1_data_inventory",
-      "format": "tiff",
-      "bytes": 241858
-    },
-    {
-      "figure": "Supplementary_Fig_S2_label_harmonization",
-      "format": "pdf",
-      "bytes": 44209
-    },
-    {
-      "figure": "Supplementary_Fig_S2_label_harmonization",
-      "format": "png",
-      "bytes": 175331
-    },
-    {
-      "figure": "Supplementary_Fig_S2_label_harmonization",
-      "format": "svg",
-      "bytes": 16514
-    },
-    {
-      "figure": "Supplementary_Fig_S2_label_harmonization",
-      "format": "tiff",
-      "bytes": 490696
+      "bytes": 1069324
     },
     {
       "figure": "Supplementary_Fig_S10_source_package",
@@ -392,44 +272,44 @@
       "bytes": 239186
     },
     {
-      "figure": "Supplementary_Fig_S3_split_scope",
+      "figure": "Supplementary_Fig_S2_label_harmonization",
       "format": "pdf",
-      "bytes": 135326
+      "bytes": 44209
     },
     {
-      "figure": "Supplementary_Fig_S3_split_scope",
+      "figure": "Supplementary_Fig_S2_label_harmonization",
       "format": "png",
-      "bytes": 115838
+      "bytes": 175331
     },
     {
-      "figure": "Supplementary_Fig_S3_split_scope",
+      "figure": "Supplementary_Fig_S2_label_harmonization",
       "format": "svg",
-      "bytes": 4473
+      "bytes": 16514
     },
     {
-      "figure": "Supplementary_Fig_S3_split_scope",
+      "figure": "Supplementary_Fig_S2_label_harmonization",
       "format": "tiff",
-      "bytes": 245956
+      "bytes": 490696
     },
     {
-      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "figure": "Supplementary_Fig_S4_pixel_composition",
       "format": "pdf",
-      "bytes": 122776
+      "bytes": 138905
     },
     {
-      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "figure": "Supplementary_Fig_S4_pixel_composition",
       "format": "png",
-      "bytes": 98708
+      "bytes": 127233
     },
     {
-      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "figure": "Supplementary_Fig_S4_pixel_composition",
       "format": "svg",
-      "bytes": 2936
+      "bytes": 3816
     },
     {
-      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "figure": "Supplementary_Fig_S4_pixel_composition",
       "format": "tiff",
-      "bytes": 238510
+      "bytes": 290010
     },
     {
       "figure": "Supplementary_Fig_S6_seed_trajectory",
@@ -452,6 +332,26 @@
       "bytes": 483458
     },
     {
+      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
+      "format": "pdf",
+      "bytes": 45090
+    },
+    {
+      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
+      "format": "png",
+      "bytes": 345309
+    },
+    {
+      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
+      "format": "svg",
+      "bytes": 29840
+    },
+    {
+      "figure": "Supplementary_Fig_S8b_alpha_sensitivity",
+      "format": "tiff",
+      "bytes": 508566
+    },
+    {
       "figure": "Supplementary_Fig_S11_rare_specialist_expert_policy",
       "format": "pdf",
       "bytes": 47729
@@ -472,24 +372,124 @@
       "bytes": 43567190
     },
     {
-      "figure": "Supplementary_Fig_S4_pixel_composition",
+      "figure": "Supplementary_Fig_S7_replicate_stability",
       "format": "pdf",
-      "bytes": 138905
+      "bytes": 40245
     },
     {
-      "figure": "Supplementary_Fig_S4_pixel_composition",
+      "figure": "Supplementary_Fig_S7_replicate_stability",
       "format": "png",
-      "bytes": 127233
+      "bytes": 176037
     },
     {
-      "figure": "Supplementary_Fig_S4_pixel_composition",
+      "figure": "Supplementary_Fig_S7_replicate_stability",
       "format": "svg",
-      "bytes": 3816
+      "bytes": 12866
     },
     {
-      "figure": "Supplementary_Fig_S4_pixel_composition",
+      "figure": "Supplementary_Fig_S7_replicate_stability",
       "format": "tiff",
-      "bytes": 290010
+      "bytes": 420216
+    },
+    {
+      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "format": "pdf",
+      "bytes": 122776
+    },
+    {
+      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "format": "png",
+      "bytes": 98708
+    },
+    {
+      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "format": "svg",
+      "bytes": 2936
+    },
+    {
+      "figure": "Supplementary_Fig_S5_model_configuration_sensitivity",
+      "format": "tiff",
+      "bytes": 238510
+    },
+    {
+      "figure": "Supplementary_Fig_S1_data_inventory",
+      "format": "pdf",
+      "bytes": 114476
+    },
+    {
+      "figure": "Supplementary_Fig_S1_data_inventory",
+      "format": "png",
+      "bytes": 103364
+    },
+    {
+      "figure": "Supplementary_Fig_S1_data_inventory",
+      "format": "svg",
+      "bytes": 2746
+    },
+    {
+      "figure": "Supplementary_Fig_S1_data_inventory",
+      "format": "tiff",
+      "bytes": 241858
+    },
+    {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "pdf",
+      "bytes": 46940
+    },
+    {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "png",
+      "bytes": 303253
+    },
+    {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "svg",
+      "bytes": 33158
+    },
+    {
+      "figure": "Supplementary_Fig_S8_conformal_coverage",
+      "format": "tiff",
+      "bytes": 485846
+    },
+    {
+      "figure": "Supplementary_Fig_S9_case_selection",
+      "format": "pdf",
+      "bytes": 49549
+    },
+    {
+      "figure": "Supplementary_Fig_S9_case_selection",
+      "format": "png",
+      "bytes": 362075
+    },
+    {
+      "figure": "Supplementary_Fig_S9_case_selection",
+      "format": "svg",
+      "bytes": 32518
+    },
+    {
+      "figure": "Supplementary_Fig_S9_case_selection",
+      "format": "tiff",
+      "bytes": 610420
+    },
+    {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "pdf",
+      "bytes": 135326
+    },
+    {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "png",
+      "bytes": 115838
+    },
+    {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "svg",
+      "bytes": 4473
+    },
+    {
+      "figure": "Supplementary_Fig_S3_split_scope",
+      "format": "tiff",
+      "bytes": 245956
     }
   ],
   "supplementary_table_records": [
@@ -539,7 +539,7 @@
     },
     {
       "file": "csv\\Table_S9_hyperparameter_compute_sources.csv",
-      "bytes": 682
+      "bytes": 646
     },
     {
       "file": "csv\\Table_S9b_fullscale_hyperparameter_compute_values.csv",
@@ -547,7 +547,7 @@
     },
     {
       "file": "HistoSet_supplementary_tables_publication.xlsx",
-      "bytes": 30980
+      "bytes": 30942
     }
   ]
 }
